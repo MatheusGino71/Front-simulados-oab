@@ -1,0 +1,37 @@
+.simulados-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.simulado-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  transition: transform 0.2s;
+}
+
+.simulado-card:hover {
+  transform: translateY(-5px);
+}
+
+.simulado-card h3 {
+  color: #2c3e50;
+  margin-top: 0;
+}
+
+.start-button {
+  display: inline-block;
+  background-color: #3498db;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 1rem;
+  transition: background-color 0.2s;
+}
+
+.start-button:hover {
+  background-color: #2980b9;
+}

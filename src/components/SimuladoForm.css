@@ -1,0 +1,92 @@
+.simulado-form {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 20px;
+  background-color: #ecf0f1;
+  border-radius: 10px;
+  margin: 1rem 0 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: #3498db;
+  border-radius: 10px;
+  transition: width 0.3s ease;
+}
+
+.progress-bar span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #2c3e50;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.question-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.question-card h3 {
+  color: #2c3e50;
+  margin-top: 0;
+}
+
+.options {
+  margin-top: 1rem;
+}
+
+.option {
+  margin: 0.5rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.option input {
+  margin-right: 0.5rem;
+}
+
+.option label {
+  cursor: pointer;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.navigation-buttons button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.navigation-buttons button:hover {
+  background-color: #2980b9;
+}
+
+.submit-button {
+  background-color: #2ecc71 !important;
+  font-weight: bold;
+  padding: 0.75rem 1.5rem !important;
+}
+
+.submit-button:hover {
+  background-color: #27ae60 !important;
+}

@@ -1,0 +1,88 @@
+.result-container {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.result-container h2 {
+  color: #2c3e50;
+  text-align: center;
+  margin-top: 0;
+}
+
+.summary {
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.summary div {
+  padding: 1rem;
+  border-radius: 8px;
+  width: 30%;
+}
+
+.correct {
+  background-color: rgba(46, 204, 113, 0.1);
+  border: 1px solid #2ecc71;
+}
+
+.correct strong {
+  color: #2ecc71;
+  font-size: 1.5rem;
+}
+
+.wrong {
+  background-color: rgba(231, 76, 60, 0.1);
+  border: 1px solid #e74c3c;
+}
+
+.wrong strong {
+  color: #e74c3c;
+  font-size: 1.5rem;
+}
+
+.percentage strong {
+  color: #2c3e50;
+  font-size: 1.5rem;
+}
+
+.diagnostic, .study-plan {
+  margin: 2rem 0;
+}
+
+.wrong-questions ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.wrong-questions li {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.button {
+  display: inline-block;
+  background-color: #3498db;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.button:hover {
+  background-color: #2980b9;
+}
