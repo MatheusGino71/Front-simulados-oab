@@ -1,23 +1,24 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
-import Simulado from './pages/Simulado';
-import Resultado from './pages/Resultado';
-import Header from './components/Header';
+import { Routes, Route } from 'react-router-dom';
+import SimuladoList from './components/SimuladoList';
+import SimuladoForm from './components/SimuladoForm';
+import Resultado from './components/Resultado';
 
 function App() {
   return (
-    <Router>
-      <div className="App">
-        <Header />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/simulado/:id" element={<Simulado />} />
-          <Route path="/resultado" element={<Resultado />} />
-        </Routes>
-      </div>
-    </Router>
+    <div className="App">
+      <h1>Simulados OAB</h1>
+      <Routes>
+        <Route path="/" element={<SimuladoList />} />
+        <Route path="/simulado/:nome" element={<SimuladoForm />} />
+        <Route path="/resultado" element={<Resultado />} />
+        <Route path="*" element={<div style={{padding: 40, textAlign: 'center', fontSize: 22}}>Página não encontrada</div>} />
+      </Routes>
+    </div>
   );
 }
 
 export default App;
+
+
+

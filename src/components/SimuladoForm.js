@@ -1,103 +1,84 @@
-import React, { useState, useEffect } from 'react';
-import './SimuladoForm.css';
+import React, { useEffect, useState } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 
-const SimuladoForm = ({ questions, onSubmit }) => {
-  const [answers, setAnswers] = useState({});
-  const [currentQuestion, setCurrentQuestion] = useState(0);
+function SimuladoForm() {
+  const { nome } = useParams();
+  const [questoes, setQuestoes] = useState([]);
+  const [respostas, setRespostas] = useState({});
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const navigate = useNavigate();
 
-  // Exemplo de uso do useEffect (se necessário)
   useEffect(() => {
-    // Inicializa todas as respostas como vazias
-    const initialAnswers = {};
-    questions.forEach(q => {
-      initialAnswers[q.numero] = '';
-    });
-    setAnswers(initialAnswers);
-  }, [questions]); // Executa quando as questions mudam
+    fetch(`http://localhost:3000/simulados/${nome}`)
+      .then(res => res.json())
+      .then(data => {
+        setQuestoes(data.questoes || []);
+        setLoading(false);
+      })
+      .catch(() => {
+        setError('Erro ao carregar questões.');
+        setLoading(false);
+      });
+  }, [nome]);
 
-  const handleOptionChange = (questionNumber, option) => {
-    setAnswers({
-      ...answers,
-      [questionNumber]: option
-    });
+  const handleChange = (questao_id, letra) => {
+    setRespostas({ ...respostas, [questao_id]: letra });
   };
 
-  const handleNext = () => {
-    setCurrentQuestion(prev => Math.min(prev + 1, questions.length - 1));
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const respostasArray = Object.entries(respostas).map(([questao_id, resposta_usuario]) => ({
+      questao_id: Number(questao_id),
+      resposta_usuario
+    }));
+    fetch('http://localhost:3000/corrigir', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(respostasArray)
+    })
+      .then(res => res.json())
+      .then(data => {
+        navigate('/resultado', { state: { resultado: data } });
+      });
   };
 
-  const handlePrevious = () => {
-    setCurrentQuestion(prev => Math.max(prev - 1, 0));
-  };
-
-  const handleSubmit = () => {
-    const formattedAnswers = Object.keys(answers)
-      .filter(key => answers[key] !== '') // Filtra apenas questões respondidas
-      .map(key => ({
-        questao_id: parseInt(key),
-        resposta_usuario: answers[key]
-      }));
-    
-    onSubmit(formattedAnswers);
-  };
-
-  const progress = questions.length > 0 
-    ? ((currentQuestion + 1) / questions.length) * 100 
-    : 0;
+  if (loading) return <p>Carregando questões...</p>;
+  if (error) return <p>{error}</p>;
 
   return (
-    <div className="simulado-form">
-      <div className="progress-bar">
-        <div className="progress-fill" style={{ width: `${progress}%` }}></div>
-        <span>{currentQuestion + 1} de {questions.length}</span>
-      </div>
-
-      <div className="question-card">
-        <h3>Questão {questions[currentQuestion]?.numero}</h3>
-        <p>{questions[currentQuestion]?.enunciado}</p>
-        <div className="options">
-          {['a', 'b', 'c', 'd'].map((option) => (
-            <div key={option} className="option">
-              <input
-                type="radio"
-                id={`q${questions[currentQuestion]?.numero}-${option}`}
-                name={`q${questions[currentQuestion]?.numero}`}
-                value={option}
-                checked={answers[questions[currentQuestion]?.numero] === option}
-                onChange={() => handleOptionChange(questions[currentQuestion]?.numero, option)}
-              />
-              <label htmlFor={`q${questions[currentQuestion]?.numero}-${option}`}>
-                {option.toUpperCase()}) {questions[currentQuestion]?.[`alternativa_${option}`]}
-              </label>
-            </div>
-          ))}
+    <form onSubmit={handleSubmit} style={{ maxWidth: 700, margin: '0 auto', background: '#fff', borderRadius: 8, boxShadow: '0 2px 8px #0001', padding: 32 }}>
+      <h2>{nome.replace('.json', '')}</h2>
+      <div style={{ marginBottom: 24 }}>
+        <div style={{ height: 8, background: '#eee', borderRadius: 4, marginBottom: 16 }}>
+          <div style={{ width: `${(Object.keys(respostas).length / questoes.length) * 100}%`, height: 8, background: '#1abc9c', borderRadius: 4, transition: 'width 0.3s' }} />
         </div>
+        <span>Respondidas: {Object.keys(respostas).length} / {questoes.length}</span>
       </div>
-
-      <div className="navigation-buttons">
-        <button 
-          onClick={handlePrevious}
-          disabled={currentQuestion === 0}
-        >
-          Anterior
-        </button>
-        
-        {currentQuestion < questions.length - 1 ? (
-          <button onClick={handleNext}>
-            Próxima
-          </button>
-        ) : (
-          <button 
-            className="submit-button" 
-            onClick={handleSubmit}
-            disabled={!answers[questions[currentQuestion]?.numero]}
-          >
-            Enviar Respostas
-          </button>
-        )}
-      </div>
-    </div>
+      {questoes.map((q, idx) => (
+        <div key={q.questao_id} style={{ marginBottom: 28, padding: 16, background: '#f7f7f7', borderRadius: 6 }}>
+          <div style={{ fontWeight: 'bold', marginBottom: 8 }}>Questão {idx + 1}</div>
+          <div dangerouslySetInnerHTML={{ __html: q.questao }} style={{ marginBottom: 10 }} />
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+            {q.alternativas.map(a => (
+              <label key={a.letra} style={{ display: 'flex', alignItems: 'center', gap: 8, background: '#fff', borderRadius: 4, border: '1px solid #ddd', padding: 6, cursor: 'pointer' }}>
+                <input
+                  type="radio"
+                  name={`questao_${q.questao_id}`}
+                  value={a.letra}
+                  checked={respostas[q.questao_id] === a.letra}
+                  onChange={() => handleChange(q.questao_id, a.letra)}
+                  required
+                />
+                <span style={{ fontWeight: 500 }}>{a.letra})</span> {a.texto}
+              </label>
+            ))}
+          </div>
+        </div>
+      ))}
+      <button type="submit" style={{ background: '#2c3e50', color: '#fff', border: 'none', borderRadius: 4, padding: '12px 28px', fontSize: 18, cursor: 'pointer', marginTop: 16 }}>Enviar Respostas</button>
+    </form>
   );
-};
+}
 
 export default SimuladoForm;
