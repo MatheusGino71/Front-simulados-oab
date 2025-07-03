@@ -1,13 +1,14 @@
 
 
+
 body {
   min-height: 100vh;
-  background: linear-gradient(120deg, #f8fafc 0%, #e0e7ef 100%);
+  background: linear-gradient(120deg, #B0C4DE 0%, #FF6347 100%);
   background-attachment: fixed;
-  animation: fundoMinimalista 12s ease-in-out infinite alternate;
+  animation: fundoTomatoSteel 12s ease-in-out infinite alternate;
 }
 
-@keyframes fundoMinimalista {
+@keyframes fundoTomatoSteel {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
@@ -16,12 +17,12 @@ body {
 .simuladoContainer {
   max-width: 900px;
   margin: 40px auto;
-  background: rgba(255,255,255,0.95);
+  background: rgba(255,255,255,0.97);
   border-radius: 22px;
-  box-shadow: 0 8px 32px #e0e7ef99;
+  box-shadow: 0 8px 32px #B0C4DE99;
   padding: 48px 36px 36px 36px;
   animation: fadeIn 0.7s;
-  border: 2px solid #e0e7ef;
+  border: 2px solid #B0C4DE;
   position: relative;
   overflow: hidden;
   -webkit-backdrop-filter: blur(2px) saturate(1.1);
@@ -64,15 +65,11 @@ body {
 .titulo {
   font-size: 2.5rem;
   font-weight: bold;
-  color: #ff6b6b;
+  color: #111;
   margin-bottom: 22px;
   letter-spacing: 1.5px;
   text-align: center;
-  text-shadow: 0 2px 8px #ffd93d88, 0 1px 0 #fff;
-  background: linear-gradient(90deg, #ff6b6b 0%, #ffd93d 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
+  text-shadow: 0 2px 8px #B0C4DE33, 0 1px 0 #fff;
 }
 
 .progressBar {
@@ -94,10 +91,10 @@ body {
 .questaoBox {
   margin-bottom: 36px;
   padding: 28px 22px 20px 22px;
-  background: linear-gradient(120deg, #fffbe7 80%, #ffd93d22 100%);
+  background: linear-gradient(120deg, #B0C4DE 80%, #FF634733 100%);
   border-radius: 14px;
-  box-shadow: 0 4px 16px #ffd93d44;
-  border: 2.5px solid #ffd93d;
+  box-shadow: 0 4px 16px #B0C4DE44;
+  border: 2.5px solid #FF6347;
   animation: fadeIn 0.5s;
   position: relative;
   z-index: 1;
@@ -107,23 +104,24 @@ body {
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
   border-radius: 14px;
-  background: linear-gradient(120deg, #ffd93d33 0%, #ff6b6b11 100%);
+  background: linear-gradient(120deg, #FF634733 0%, #B0C4DE11 100%);
   z-index: -1;
   pointer-events: none;
 }
 .questaoTitulo {
   font-weight: bold;
-  color: #ff6b6b;
+  color: #FF6347;
   margin-bottom: 10px;
   font-size: 1.18rem;
   letter-spacing: 0.5px;
-  text-shadow: 0 1px 0 #fff;
+  text-shadow: 0 1px 0 #B0C4DE88;
 }
 .questaoEnunciado {
   margin-bottom: 14px;
-  color: #2d3a4b;
+  color: #222;
   font-size: 1.13rem;
   line-height: 1.5;
+  font-weight: 500;
 }
 
 .alternativas {
@@ -147,14 +145,14 @@ body {
   position: relative;
 }
 .alternativaLabel.selected {
-  background: linear-gradient(90deg, #ffd93d 80%, #ff6b6b22 100%);
-  border: 2.5px solid #ff6b6b;
-  color: #2d3a4b;
-  box-shadow: 0 4px 16px #ffd93d55;
+  background: linear-gradient(90deg, #FF6347 80%, #B0C4DE22 100%);
+  border: 2.5px solid #FF6347;
+  color: #222;
+  box-shadow: 0 4px 16px #B0C4DE55;
 }
 .alternativaLabel.selected::before {
   content: '✔';
-  color: #ff6b6b;
+  color: #FF6347;
   font-size: 1.2rem;
   margin-right: 8px;
   font-weight: bold;
@@ -162,7 +160,7 @@ body {
 
 
 .enviarBtn {
-  background: linear-gradient(90deg, #ff6b6b 0%, #ffd93d 100%);
+  background: linear-gradient(90deg, #FF6347 0%, #B0C4DE 100%);
   color: #fff;
   border: none;
   border-radius: 8px;
@@ -171,7 +169,7 @@ body {
   font-weight: bold;
   cursor: pointer;
   margin: 0 8px;
-  box-shadow: 0 4px 16px #ffd93d44;
+  box-shadow: 0 4px 16px #B0C4DE44;
   transition: background 0.2s, box-shadow 0.2s, transform 0.1s;
   letter-spacing: 1px;
   outline: none;
@@ -183,8 +181,8 @@ body {
   filter: grayscale(0.2);
 }
 .enviarBtn:hover:not(:disabled), .enviarBtn:focus:not(:disabled) {
-  background: linear-gradient(90deg, #ffd93d 0%, #ff6b6b 100%);
-  box-shadow: 0 8px 32px #ff6b6b33;
+  background: linear-gradient(90deg, #B0C4DE 0%, #FF6347 100%);
+  box-shadow: 0 8px 32px #FF634733;
   transform: translateY(-2px) scale(1.03);
 }
 

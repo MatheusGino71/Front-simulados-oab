@@ -71,7 +71,7 @@ function SimuladoForm() {
 
   return (
     <form onSubmit={handleSubmit} className={styles.simuladoContainer}>
-      <div className={styles.titulo}>{nome.replace('.json', '')}</div>
+      <div className={styles.titulo}>SIMULADO OAB</div>
       <div style={{ marginBottom: 24 }}>
         <div className={styles.progressBar}>
           <div className={styles.progress} style={{ width: `${(Object.keys(respostas).length / questoes.length) * 100}%` }} />
