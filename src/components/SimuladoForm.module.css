@@ -1,16 +1,31 @@
 
 
+body {
+  min-height: 100vh;
+  background: linear-gradient(120deg, #f8fafc 0%, #e0e7ef 100%);
+  background-attachment: fixed;
+  animation: fundoMinimalista 12s ease-in-out infinite alternate;
+}
+
+@keyframes fundoMinimalista {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
 .simuladoContainer {
   max-width: 900px;
   margin: 40px auto;
-  background: linear-gradient(135deg, #fff 0%, #ff6b6b 60%, #111 100%);
+  background: rgba(255,255,255,0.95);
   border-radius: 22px;
-  box-shadow: 0 8px 32px #0006;
+  box-shadow: 0 8px 32px #e0e7ef99;
   padding: 48px 36px 36px 36px;
-  animation: fundoAnimado 6s ease-in-out infinite alternate, fadeIn 0.7s;
-  border: 3px solid #ff6b6b;
+  animation: fadeIn 0.7s;
+  border: 2px solid #e0e7ef;
   position: relative;
   overflow: hidden;
+  -webkit-backdrop-filter: blur(2px) saturate(1.1);
+  backdrop-filter: blur(2px) saturate(1.1);
 }
 
 @keyframes fundoAnimado {
@@ -145,23 +160,52 @@
   font-weight: bold;
 }
 
+
 .enviarBtn {
   background: linear-gradient(90deg, #ff6b6b 0%, #ffd93d 100%);
   color: #fff;
   border: none;
   border-radius: 8px;
-  padding: 18px 44px;
-  font-size: 1.25rem;
+  padding: 14px 32px;
+  font-size: 1.1rem;
   font-weight: bold;
   cursor: pointer;
-  margin-top: 24px;
+  margin: 0 8px;
   box-shadow: 0 4px 16px #ffd93d44;
   transition: background 0.2s, box-shadow 0.2s, transform 0.1s;
   letter-spacing: 1px;
   outline: none;
+  min-width: 120px;
 }
-.enviarBtn:hover, .enviarBtn:focus {
+.enviarBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  filter: grayscale(0.2);
+}
+.enviarBtn:hover:not(:disabled), .enviarBtn:focus:not(:disabled) {
   background: linear-gradient(90deg, #ffd93d 0%, #ff6b6b 100%);
   box-shadow: 0 8px 32px #ff6b6b33;
   transform: translateY(-2px) scale(1.03);
+}
+
+.paginacao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  margin: 32px 0 0 0;
+  flex-wrap: wrap;
+}
+.paginaAtual {
+  background: #fffbe7;
+  color: #ff6b6b;
+  font-weight: bold;
+  border-radius: 6px;
+  padding: 8px 18px;
+  font-size: 1.1rem;
+  box-shadow: 0 2px 8px #ffd93d33;
+  border: 2px solid #ffd93d;
+  margin: 0 8px;
+  letter-spacing: 1px;
+  transition: background 0.2s, color 0.2s;
 }

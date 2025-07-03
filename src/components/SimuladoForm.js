@@ -8,13 +8,20 @@ function SimuladoForm() {
   const [respostas, setRespostas] = useState({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [pagina, setPagina] = useState(1);
+  const porPagina = 10;
   const navigate = useNavigate();
 
   useEffect(() => {
     fetch(`http://localhost:3000/simulados/${nome}`)
       .then(res => res.json())
       .then(data => {
-        setQuestoes(data.questoes || []);
+        // Remove todas as tags <p> e </p> das questões ao carregar
+        const questoesLimpa = (data.questoes || []).map(q => ({
+          ...q,
+          questao: q.questao.replace(/<\/?p>/g, '')
+        }));
+        setQuestoes(questoesLimpa);
         setLoading(false);
       })
       .catch(() => {
@@ -56,6 +63,12 @@ function SimuladoForm() {
     </div>
   );
 
+  // Paginação
+  const totalPaginas = Math.ceil(questoes.length / porPagina);
+  const inicio = (pagina - 1) * porPagina;
+  const fim = pagina === totalPaginas ? questoes.length : inicio + porPagina;
+  const questoesPagina = questoes.slice(inicio, fim);
+
   return (
     <form onSubmit={handleSubmit} className={styles.simuladoContainer}>
       <div className={styles.titulo}>{nome.replace('.json', '')}</div>
@@ -65,10 +78,10 @@ function SimuladoForm() {
         </div>
         <span style={{ color: '#2d3a4b', fontWeight: 500 }}>Respondidas: {Object.keys(respostas).length} / {questoes.length}</span>
       </div>
-      {questoes.map((q, idx) => (
+      {questoesPagina.map((q, idx) => (
         <div key={q.questao_id} className={styles.questaoBox}>
-          <div className={styles.questaoTitulo}>Questão {idx + 1}</div>
-          <div className={styles.questaoEnunciado} dangerouslySetInnerHTML={{ __html: q.questao }} />
+          <div className={styles.questaoTitulo}>Questão {inicio + idx + 1}</div>
+          <span className={styles.questaoEnunciado} style={{display: 'block', marginBottom: 14, fontWeight: 500}}>{q.questao}</span>
           <div className={styles.alternativas}>
             {q.alternativas.map(a => (
               <label
@@ -87,13 +100,27 @@ function SimuladoForm() {
                   required
                   style={{ accentColor: '#ff6b6b' }}
                 />
-                <span>{a.letra})</span> {a.texto}
+                <span style={{fontWeight:600}}>{a.letra})</span> <span>{a.texto}</span>
               </label>
             ))}
           </div>
         </div>
       ))}
-      <button type="submit" className={styles.enviarBtn}>Enviar Respostas</button>
+      <div className={styles.paginacao}>
+        <button type="button" className={styles.enviarBtn} onClick={() => setPagina(p => Math.max(1, p - 1))} disabled={pagina === 1}>
+          ⬅ Anterior
+        </button>
+        <span className={styles.paginaAtual}>
+          Página {pagina} de {totalPaginas}
+        </span>
+        {pagina < totalPaginas ? (
+          <button type="button" className={styles.enviarBtn} onClick={() => setPagina(p => Math.min(totalPaginas, p + 1))}>
+            Próxima ➡
+          </button>
+        ) : (
+          <button type="submit" className={styles.enviarBtn}>Enviar Respostas</button>
+        )}
+      </div>
     </form>
   );
 }
