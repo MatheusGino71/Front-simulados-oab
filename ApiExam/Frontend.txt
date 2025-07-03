@@ -1,0 +1,138 @@
+# Passo a Passo para Criar um Frontend para a API de Simulados OAB
+
+Este guia mostra como criar um frontend simples para consumir a API de simulados OAB, permitindo ao usuário visualizar simulados, responder questões e receber o diagnóstico personalizado.
+
+## 1. Escolha da Tecnologia
+Sugestão: React (pode ser criado com `create-react-app`).
+
+## 2. Criação do Projeto
+Abra o terminal e execute:
+```
+npx create-react-app front-simulados-oab
+```
+Entre na pasta criada:
+```
+cd front-simulados-oab
+```
+
+## 3. Listar Simulados Disponíveis
+- Faça uma requisição GET para `http://localhost:3000/simulados`.
+- Exiba a lista de simulados para o usuário escolher.
+- Exemplo de código (React):
+```js
+useEffect(() => {
+  fetch('http://localhost:3000/simulados')
+    .then(res => res.json())
+    .then(data => setSimulados(data.simulados));
+}, []);
+```
+
+## 4. Exibir Questões do Simulado
+- Após o usuário escolher um simulado, carregue o arquivo JSON correspondente (crie um endpoint na API se necessário, ou leia o arquivo diretamente se for possível).
+- Exiba cada questão e suas alternativas em um formulário.
+- Permita que o usuário selecione uma alternativa para cada questão.
+
+## 5. Enviar Respostas para Correção
+- Monte um array de objetos `{ questao_id, resposta_usuario }` com as respostas do usuário.
+- Envie via POST para `http://localhost:3000/corrigir`:
+```js
+fetch('http://localhost:3000/corrigir', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify(respostas)
+})
+  .then(res => res.json())
+  .then(data => setResultado(data));
+```
+
+## 6. Exibir Diagnóstico e Resultados
+- Mostre ao usuário:
+  - Total de acertos e erros
+  - Quais questões errou e o gabarito correto
+  - Diagnóstico personalizado e plano de estudos (campos `analiseSimulado` e `diagnostico`)
+- Exemplo de exibição:
+```js
+<p>Acertos: {resultado.acertos}</p>
+<p>Erros: {resultado.erros.length}</p>
+<p>Diagnóstico: {resultado.diagnostico}</p>
+```
+
+## 7. Melhorias Sugeridas
+- Adicione feedback visual (cores para acertos/erros)
+- Permita refazer o simulado ou tentar outros
+- Adicione paginação ou filtros se houver muitos simulados
+
+## 8. Sugestão de Layout do Projeto
+
+Para um layout simples, moderno e funcional, siga estas recomendações:
+
+### Estrutura de Telas/Componentes
+
+1. **Página Inicial / Lista de Simulados**
+   - Título do sistema (ex: "Simulados OAB").
+   - Lista de simulados disponíveis (botões ou cards para seleção).
+
+2. **Tela do Simulado**
+   - Exibe o nome do simulado selecionado.
+   - Lista de questões, cada uma com:
+     - Enunciado da questão
+     - Alternativas (radios ou botões)
+   - Botão para enviar respostas ao final.
+
+3. **Tela de Resultado/Diagnóstico**
+   - Resumo: total de acertos, erros, percentual de acerto.
+   - Lista de questões erradas (mostrando resposta do usuário e a correta).
+   - Diagnóstico personalizado e plano de estudos.
+   - Botão para refazer ou voltar à lista de simulados.
+
+### Dicas de UI/UX
+- Use cores para destacar acertos (verde) e erros (vermelho).
+- Utilize componentes de layout como cards, listas e botões grandes.
+- Mantenha o layout responsivo (funciona bem em desktop e mobile).
+- Utilize uma barra de progresso para mostrar o avanço no simulado.
+- Exiba mensagens de carregamento enquanto busca dados da API.
+
+### Sugestão de Organização de Componentes (React)
+- `App.js`: gerencia rotas e estado global
+- `SimuladoList.js`: lista de simulados
+- `SimuladoForm.js`: formulário de questões
+- `Resultado.js`: exibe o diagnóstico
+
+### Exemplo de Fluxo Visual
+```
+[Simulados OAB]
+----------------------
+| Simulado 1 [Iniciar]
+| Simulado 2 [Iniciar]
+----------------------
+
+[Simulado: OAB 44º Exame]
+----------------------
+Questão 1: ...
+  ( ) A  ( ) B  ( ) C  ( ) D
+Questão 2: ...
+  ( ) A  ( ) B  ( ) C  ( ) D
+...
+[Enviar Respostas]
+----------------------
+
+[Resultado]
+----------------------
+Acertos: 38/50
+Erros: 12
+Diagnóstico: ...
+Plano de Estudos: ...
+[Refazer] [Voltar]
+----------------------
+```
+
+Com esse layout, o usuário terá uma experiência clara, intuitiva e eficiente para estudar e acompanhar seu desempenho.
+
+## Fluxo Resumido
+1. Usuário acessa o site → vê lista de simulados
+2. Seleciona um simulado → responde as questões
+3. Envia respostas → recebe e visualiza o diagnóstico detalhado
+
+---
+
+Com esse passo a passo, você terá um frontend funcional para consumir a API de simulados OAB, proporcionando uma experiência completa ao usuário.

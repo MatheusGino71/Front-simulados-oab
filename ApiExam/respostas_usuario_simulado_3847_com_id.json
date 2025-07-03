@@ -1,0 +1,618 @@
+[
+  {
+    "simulado_id": 3847,
+    "area": "Filosofia",
+    "questao": "<p style=\\\"font-size: 12px;\\\">A dialética, tensionamento entre tese antítese e síntese são termos al",
+    "resposta_usuario": "D",
+    "correta": true,
+    "questao_id": 1
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Constitucional",
+    "questao": "<p></p><p></p><p>O Estado Rio de Julho vem desrespeitando reiteradamente a autonomia de sua capital,",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 2
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Constitucional",
+    "questao": "<p></p><p></p><p>O Partido Político Z tem observado que algumas regras trazidas pela Reforma Trabalh",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 3
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Constitucional",
+    "questao": "<p></p><p><span style=\\\"font-size: 11.0pt;\\\"></span></p><p>O Estado Alfa editou a Lei 1234/2024, que",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 4
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Administrativo",
+    "questao": "<p></p><p>O Estado Beta pretende criar autarquia estadual destinada ao exercício do poder de polícia",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 5
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ética Profissional",
+    "questao": "<p><span style=\\\"float: none;\\\">Antônio Augusto, advogado com inscrição regular no Conselho Secciona",
+    "resposta_usuario": "B",
+    "correta": true,
+    "questao_id": 6
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ética Profissional",
+    "questao": "<p><span style=\\\"font-size: 12px;\\\">O Ministério Público do Estado X, após investigação criminal, of",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 7
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Internacional",
+    "questao": "<p><span style=\\\"font-size: 12px;float: none;\\\">A Organização das Nações Unidas foi idealizada ainda",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 8
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ética Profissional",
+    "questao": "<p><span style=\\\"font-size: 12px;float: none;\\\">A advogada Marta, conhecida por sua longa e bem-suce",
+    "resposta_usuario": "B",
+    "correta": true,
+    "questao_id": 9
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ética Profissional",
+    "questao": "<p><span style=\\\"font-size: 12px;float: none;\\\">O Conselho Seccional A, após realizar o inventário d",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 10
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Civil",
+    "questao": "<p><span style=\\\"text-align: justify;\\\">Luciana é casada com Alexandre há mais de 15 anos e dessa re",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 11
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Empresarial",
+    "questao": "<p>A 456 matilha S/A empresa que atua no ramo de turismo, diante de forte crise econômica a qual é s",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 12
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Tributário",
+    "questao": "<p>A empresa 789 Milhagem S.A., após as dificuldades vividas em 2023, entrou em recuperação judicial",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 13
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ambiental",
+    "questao": "<p>A empresa Reciclar S.A., operando no setor de produção de embalagens plásticas, busca se adequar ",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 14
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Administrativo",
+    "questao": "<p>A sociedade de economia mista ABC, exploradora de atividade econômica, integrante da administraçã",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 15
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Trabalho",
+    "questao": "<p>Aline Costa foi contratada para trabalhar como recepcionista na sociedade empresária “Alfa LTDA” ",
+    "resposta_usuario": "A",
+    "correta": true,
+    "questao_id": 16
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Trabalho",
+    "questao": "<p>Amanda Ferreira foi contratada pelo período de 45 dias por período de experiência e durante seu c",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 17
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Civil",
+    "questao": "<p>Amanda, solteira e sem filhos, decide doar um de seus imóveis, mediante instrumento contratual, p",
+    "resposta_usuario": "D",
+    "correta": true,
+    "questao_id": 18
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ética Profissional",
+    "questao": "<p>Ana Poliana foi convidada pela Sociedade de Advogados XYZ para atuar em determinadas causas da so",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 19
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ambiental",
+    "questao": "<p>Antonio é réu em ação penal, em razão de suposta prática de crime ambiental. A esse respeito, de ",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 20
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Eleitoral",
+    "questao": "<p>Após as formalidades necessárias ao cumprimento das condições de elegibilidade, os partidos reali",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 21
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Civil",
+    "questao": "<p>Após uma viagem para o Guarujá-SP, os pais de Pietro e Júlio, grandes empresários, acabaram se en",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 22
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Constitucional",
+    "questao": "<p>Determinado projeto de lei complementar, de iniciativa do Senado Federal, foi devidamente discuti",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 23
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Constitucional",
+    "questao": "<p>Devido à grave crise econômica que o país se encontra, grandes empresas estão requerendo a Recupe",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 24
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Penal",
+    "questao": "<p>Em abordagem durante uma blitz, em rodovia federal, um policial constatou alteração no chassi do ",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 25
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Civil",
+    "questao": "<p>Em processo da competência originária do tribunal, o desembargador a quem coube a sua relatoria i",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 26
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo do Trabalho",
+    "questao": "<p>Em processo trabalhista ajuizado por Gustavo Dantas em face de seu ex-empregador, a 3ª Vara do Tr",
+    "resposta_usuario": "B",
+    "correta": true,
+    "questao_id": 27
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Financeiro",
+    "questao": "<p>Em relação à flexibilidade para alterações no projeto da Lei Orçamentária Anual do setor público,",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 28
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Civil",
+    "questao": "<p>Em um determinado processo em cujo polo passivo figurava ente federativo municipal, o juiz da cau",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 29
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo do Trabalho",
+    "questao": "<p>Em um processo trabalhista, o reclamante pleiteou pagamento de indenização, alegando que seu ex-e",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 30
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Tributário",
+    "questao": "<p>Entre os anos de 2010 e 2021, Maria e Ricardo eram sócios da Sociedade Empresária XFITINESS Ltda.",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 31
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Penal",
+    "questao": "<p>Enza subtraiu quatro relógios da casa de Lucas, mas, após 8 meses deste evento, ainda durante as ",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 32
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Trabalho",
+    "questao": "<p>Fabiano Guedes trabalhou para a indústria bioquímica “Medicamentos LTDA”, no período de 13/06/201",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 33
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Penal",
+    "questao": "<p>Flávio ingeriu bebida alcoólica em uma festa open bar. Nessa mesma festa, agrediu um casal de nam",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 34
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Previdenciário",
+    "questao": "<p>Francisco Almeida trabalhou como empregado durante 30 anos na sociedade empresária “Sigma LTDA”. ",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 35
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Penal",
+    "questao": "<p>Gena, Delegada de Polícia, preside uma investigação que apura a prática da infração de homicídio ",
+    "resposta_usuario": "D",
+    "correta": true,
+    "questao_id": 36
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Penal",
+    "questao": "<p>Genival é seu cliente no escritório de advocacia em que você trabalha, e está sendo investigado p",
+    "resposta_usuario": "A",
+    "correta": true,
+    "questao_id": 37
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Consumidor",
+    "questao": "<p>Há 15 dias, Amélia comprou pela internet um computador na loja LEED. Após essa compra, teve conhe",
+    "resposta_usuario": "C",
+    "correta": true,
+    "questao_id": 38
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Tributário",
+    "questao": "<p>Iniciado o ano de 2024, o governo com a intenção de aumentar a arrecadação solicita a Receita Fed",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 39
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Civil",
+    "questao": "<p>Intentada ação por meio da qual o autor pleiteava a condenação do fiador de determinada obrigação",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 40
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Penal",
+    "questao": "<p>Ivan, em 2017, foi regularmente processado e condenado pela prática de extorsão mediante sequestr",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 41
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Estatuto da Criança e do Adolescente",
+    "questao": "<p>Jefferson, adolescente de 16 anos, pratica ato infracional análogo a roubo, sendo-lhe aplicada a ",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 42
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Estatuto da Criança e do Adolescente",
+    "questao": "<p>Josiane é madrinha de Pablo, que tem 8 anos, e foi nomeada como guardiã do menino em processo que",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 43
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Tributário",
+    "questao": "<p>João, sócio na empresa Olimpíadas Ltda, e seu cliente, agendou uma reunião para te informar que e",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 44
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Empresarial",
+    "questao": "<p>Lino é gerente do estabelecimento empresarial de Teotônio Palmeira, empresário individual enquadr",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 45
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ética Profissional",
+    "questao": "<p>Lionel, advogado regularmente inscrito na OAB, deseja organizar uma chapa para concorrer à direto",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 46
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ética Profissional",
+    "questao": "<p>Manuel, bacharel em Direito, acaba de ser aprovado com louvor no mais recente Exame de Ordem. A f",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 47
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo do Trabalho",
+    "questao": "<p>Maria Clara ajuizou reclamação trabalhista pelo procedimento ordinário em face de seu ex-empregad",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 48
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Administrativo",
+    "questao": "<p>Maria José, após aprovação em concurso público, foi nomeada para cargo efetivo científico no âmbi",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 49
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Civil",
+    "questao": "<p>Marina, Letícia e Gertrudes celebram contrato de mútuo com certa instituição financeira, sendo qu",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 50
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Civil",
+    "questao": "<p>Miguel Pereira firmou um contrato de seguro de vida com a empresa Seguro Protegido. Durante a vig",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 51
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Consumidor",
+    "questao": "<p>Mário, encontrando-se em situação de superendividamento, ingressa com ação de repactuação de dívi",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 52
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Eleitoral",
+    "questao": "<p>Mévio, Prefeito do município Gama, que irá se candidatar à reeleição, decidiu ofertar, para as el",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 53
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Civil",
+    "questao": "<p>No ordenamento jurídico brasileiro, o Código Civil desempenha a função de regulamentar as relaçõe",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 54
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Penal",
+    "questao": "<p>O Ministério Público ofereceu denúncia em face de Jack, imputando-lhe a prática do delito de abor",
+    "resposta_usuario": "D",
+    "correta": true,
+    "questao_id": 55
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Financeiro",
+    "questao": "<p>O Prefeito do Município Alfa apresentou o projeto da lei orçamentária anual para à Câmara Municip",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 56
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Ética Profissional",
+    "questao": "<p>O advogado Gustavo, em entrevista a um grande veículo de comunicação, conhecido por tratar de fat",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 57
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Civil",
+    "questao": "<p>O exequente obteve uma certidão de que a execução por ele proposta foi admitida pelo juiz. Ato co",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 58
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Filosofia",
+    "questao": "<p>O jusnaturalismo como ruptura com a teocracia está vinculado ao pensamento de:</p><p><br/></p><p>",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 59
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Trabalho",
+    "questao": "<p>O sindicato dos motoristas em transporte coletivo da cidade de Salvador/BA deflagrou movimento gr",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 60
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Tributário",
+    "questao": "<p>Odair, proprietário de uma mansão no Município de São Paulo, recebeu em 17 de janeiro de 2024 o c",
+    "resposta_usuario": "B",
+    "correta": true,
+    "questao_id": 61
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Empresarial",
+    "questao": "<p>Olímpio teve seu nome negativado pela emissão de cheque sem suficiente provisão de fundos, aprese",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 62
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Administrativo",
+    "questao": "<p>Os Municípios Alfa, Beta e Ômega, por meio de contrato de consórcio, após ratificação do respecti",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 63
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Administrativo",
+    "questao": "<p>Os servidores públicos da Secretaria de Finanças do município Alfa resolveram fazer greve com o o",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 64
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Civil",
+    "questao": "<p>Pedro, renomado atleta de vôlei, constantemente envolvido em polêmicas, veio a falecer devido a u",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 65
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Civil",
+    "questao": "<p>Proferida sentença que condenou Caio a pagar a Tício determinada soma em dinheiro, o réu interpôs",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 66
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Penal",
+    "questao": "<p>Queiroz soube que sua companheira havia ingressado no mundo dos entorpecentes. Em razão das últim",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 67
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Previdenciário",
+    "questao": "<p>Rebeca Limeira presta serviços como empregada para a sociedade empresária “Alimentos Saudáveis LT",
+    "resposta_usuario": "C",
+    "correta": true,
+    "questao_id": 68
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Trabalho",
+    "questao": "<p>Reinaldo Almeida foi contratado pela sociedade empresária “Linus LTDA” para trabalhar em regime d",
+    "resposta_usuario": "D",
+    "correta": false,
+    "questao_id": 69
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo Penal",
+    "questao": "<p>Ronald, a fim de furtar algum objeto de valor, pulou o muro de uma residência e subtraiu uma moto",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 70
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo do Trabalho",
+    "questao": "<p>Samanta Araújo propôs reclamação trabalhista em face da empresa “Ômega LTDA” pessoalmente, sem ad",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 71
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Humanos",
+    "questao": "<p>Sobre o Sistema Interamericano de Proteção dos Direitos Humanos (SIDH) e a Convenção Interamerica",
+    "resposta_usuario": "C",
+    "correta": false,
+    "questao_id": 72
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Penal",
+    "questao": "<p>Tadeu caminhava por seu bairro quando percebeu a iminência de uma briga entre rapazes. Não conseg",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 73
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Processo do Trabalho",
+    "questao": "<p>Thiago Neves ajuizou reclamação trabalhista em face do Município de Sorocaba/SP, pleiteando o pag",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 74
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Constitucional",
+    "questao": "<p>Um grupo de 1000 pessoas, através de uma rede social, resolveu marcar uma manifestação contra det",
+    "resposta_usuario": "B",
+    "correta": false,
+    "questao_id": 75
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Penal",
+    "questao": "<p>Uma loja de sapatos ingressou com ação processual para recuperar o valor de R$ 100.000,00 (cem mi",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 76
+  },
+  {
+    "simulado_id": 3847,
+    "area": "Humanos",
+    "questao": "<p> Os Direitos Humanos são um conjunto de princípios e normas que visam garantir dignidade, liberda",
+    "resposta_usuario": "A",
+    "correta": false,
+    "questao_id": 77
+  }
+]

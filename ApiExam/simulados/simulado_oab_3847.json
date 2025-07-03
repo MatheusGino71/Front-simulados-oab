@@ -1,0 +1,2235 @@
+[
+  {
+    "questao_id": 1,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Filosofia",
+    "questao": "<p style=\\\"font-size: 12px;\\\">A dialética, tensionamento entre tese antítese e síntese são termos alcunhados por:</p><p><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Hans Kelsen.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Platão.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Descartes.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Hegel.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 2,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Constitucional",
+    "questao": "<p></p><p></p><p>O Estado Rio de Julho vem desrespeitando reiteradamente a autonomia de sua capital, o Município Porto Azul, o que fere princípio sensível da Constituição Federal. Dessa forma, a União pretende intervir no Estado Rio de Julho objetivando assegurar o princípio constitucional e fazer cessar a violação praticada pelo Estado. </p><p>Diante do caso narrado, com base no sistema jurídico-constitucional brasileiro, assinale a afirmativa correta.</p><p></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A União não poderá intervir no Estado Rio de Julho, a intervenção somente é autorizada nos casos de repressão de invasão estrangeira.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Para a intervenção ocorrer, nesse caso, é necessária prévia apreciação do decreto de intervenção pelo Congresso Nacional.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A intervenção da União no Estado Rio de Julho poderá ser realizada, independente de provimento do STF.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A União, a depender de provimento do STF, poderá intervir no Estado Rio de Julho para assegurar a observância do princípio constitucional da autonomia municipal.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 3,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Constitucional",
+    "questao": "<p></p><p></p><p>O Partido Político Z tem observado que algumas regras trazidas pela Reforma Trabalhista – Lei nº 13.467/2017 – contrariam o princípio da separação dos Poderes e a autonomia dos tribunais assegurados pela Constituição Federal.<br/>O Partido, que conta com representantes apenas no Senado Federal, pretende impugnar dispositivos da referida Lei. Para isso, Z busca auxílio de sua assessoria jurídica. Sobre o caso narrado, assinale a opção que apresenta, corretamente, a orientação recebida.       <br/></p><p></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O Partido Político Z não poderá propor ação do controle concentrado de constitucionalidade, pois não possui representantes na Câmara dos Deputados.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O Partido Político Z poderá propor Ação Direta de Inconstitucionalidade ao STF a fim de provocar o controle concentrado de constitucionalidade da Lei nº 13.467/2017.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O Partido Político Z poderá propor Arguição de Descumprimento de Preceito Fundamental ao STF para levar a Lei nº 13.467/2017 ao controle de constitucionalidade abstrato.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Para provocar o controle abstrato de constitucionalidade, o Partido Político Z, enquanto legitimado especial, precisa demonstrar pertinência temática no caso.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 4,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Constitucional",
+    "questao": "<p></p><p><span style=\\\"font-size: 11.0pt;\\\"></span></p><p>O Estado Alfa editou a Lei 1234/2024, que estabelece normas locais sobre prisão preventiva e prisão domiciliar no caso de mães ou responsáveis por crianças, e cria novas hipóteses para a substituição da prisão preventiva pela domiciliar.  </p><p></p><p>Sobre a Lei 1234/2024 editada por Alfa, com base no sistema jurídico-constitucional brasileiro, assinale a afirmativa correta.<br/><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A lei é inconstitucional, tendo em vista que versa sobre direito processual penal, matéria de competência concorrente, porém necessita de prévia lei complementar.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A lei é materialmente constitucional, pois a matéria sobre execução penal é de competência legislativa exclusiva local, sendo atribuída aos Estados e Distrito Federal.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A lei é constitucional, uma vez que trata de matéria de competência legislativa concorrente entre União, Estados e Distrito Federal.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A lei é formalmente inconstitucional, pois a referida norma dispõe sobre direito processual penal, matéria de competência privativa da União.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 5,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Administrativo",
+    "questao": "<p></p><p>O Estado Beta pretende criar autarquia estadual destinada ao exercício do poder de polícia de trânsito, a qual será dotada de competências fiscalizatórias e sancionatórias, podendo, inclusive, aplicar multas.</p><p>Para tanto, o Governador do Estado encaminhou projeto de lei à Assembleia Legislativa, tendo havido sua aprovação e entrado em vigência a respectiva lei aprovada.<br/>A respeito da situação narrada, aponte o item correto.<br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Mencionada autarquia é pessoa jurídica de direito público, e adquirirá personalidade jurídica após o registro de seus atos constitutivos junto ao Cartório de Pessoas Jurídicas..</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A delegação do poder de polícia, no caso, é inconstitucional, uma vez que a polícia de trânsito deve obrigatoriamente ser exercida no âmbito da administração pública direta.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A delegação do poder de polícia, no caso, é inconstitucional no que se refere à atribuição de aplicação de sanções, devendo a autarquia apenas realizar a fiscalização, ficando a cargo do Estado Beta a atividade sancionatória.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Mencionada autarquia será dotada de personalidade jurídica de direito público, seus bens serão públicos e sua responsabilidade civil será objetiva, com base na teoria do risco administrativo..</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 6,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ética Profissional",
+    "questao": "<p><span style=\\\"float: none;\\\">Antônio Augusto, advogado com inscrição regular no Conselho Seccional do Estado Vênus, ao viajar para uma cidade abrangida pelo Conselho Seccional do Estado Urano, comete conduta incompatível com o exercício da advocacia, incidindo na prática de infração disciplinar.</span><br/><span style=\\\"float: none;\">Considerando que foi instaurado processo disciplinar em face de Antônio Augusto, é correto afirmar:</span><!--EndFragment--><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A competência para punir disciplinarmente o advogado Antônio Augusto é do Tribunal de Ética do Conselho Seccional do Estado Vênus, tendo em vista ser o Conselho de origem do infrator.<br/></p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A competência para punir disciplinarmente o advogado Antônio Augusto é do Tribunal de Ética do Conselho Seccional do Estado Urano, tendo em vista ser o Conselho em cuja base territorial houve a prática da infração.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A competência para punir disciplinarmente o advogado Antônio Augusto pode ser tanto do Tribunal de Ética do Conselho Seccional do Estado Vênus como do Tribunal de Ética do Conselho Seccional do Estado Urano, ficando a escolha a critério do infrator.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A competência para punir disciplinarmente o advogado Antônio Augusto é exclusiva do Conselho Federal.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 7,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ética Profissional",
+    "questao": "<p><span style=\\\"font-size: 12px;\\\">O Ministério Público do Estado X, após investigação criminal, ofereceu denúncia contra o advogado Douglas Melo, integrante de uma organização criminosa. A investigação conseguiu constatar a relação existente entre integrantes custodiados de certa facção e o advogado que se utilizava de suas prerrogativas conferidas legalmente para o exercício da advocacia para repassar as informações obtidas por ocasião das visitas realizadas em estabelecimentos prisionais do Estado X. Após regular instrução, como forma de medida cautelar diversa da prisão, prevista no art. 319 do CPP, o juiz criminal condenou o advogado à suspensão do exercício da advocacia até que haja trânsito em julgado da decisão a ser proferida. Considerando o caso hipotético, assinale a alternativa correta.</span><br style=\\\"font-size: 12px;\"/><!--EndFragment--><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Cabe, privativamente, ao Conselho Seccional da OAB em cuja base territorial tenha ocorrido a infração, a competência para sobre a prestação efetiva do serviço jurídico realizado pelo advogado, sendo nulo o ato praticado com violação da competência privativa do conselho seccional.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Ao juízo criminal cabe, privativamente, decidir sobre suspensão do exercício da advocacia como forma de medida cautelar diversa da prisão, desde que tal medida tenha sido requerida pelo Ministério Público e seja dada ciência ao Presidente do Conselho Seccional da OAB  em cuja base territorial tenha ocorrido a infração ou na qual o advogado mantenha inscrição principal.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O juízo criminal tem competência para decidir sobre a suspensão do exercício da advocacia como forma de medida cautelar diversa da prisão, mas não como forma de sanção disciplinar.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A decisão do juízo criminal poderá ser declarada nula, já que cabe, privativamente, ao Conselho Federal da OAB, em processo disciplinar próprio, dispor, analisar e decidir sobre a prestação efetiva do serviço jurídico realizado pelo advogado.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 8,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Internacional",
+    "questao": "<p><span style=\\\"font-size: 12px;float: none;\\\">A Organização das Nações Unidas foi idealizada ainda na vigência da Segunda Guerra Mundial e concebida depois de complexas negociações. Após a ratificação da Carta da ONU por dois terços dos cinquenta Estados representados na Conferência e pela Polônia, ela entrou em vigor em 24 de outubro de 1945, fazendo surgir uma organização de cunho político, criada dentro da lógica de um direito internacional. Atualmente, o Estado-membro das Nações Unidas que viole persistentemente os princípios contidos na Carta daquele organismo internacional está sujeito à sanção, que decorre de recomendação de instância interna daquele organismo, mediante procedimento que se caracteriza, a saber:</span><br style=\\\"font-size: 12px;\"/><!--EndFragment--><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A sanção consiste na perda de todas as ajudas e subsídios internacionais mediados pela Organização das Nações Unidas, a partir de recomendação da Assembleia Geral, a ser confirmada pelo Conselho de Segurança.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A sanção consiste na suspensão por tempo indeterminado da participação do Estado penalizado na Organização das Nações Unidas, a partir de proposta da Assembleia Geral, que será encaminhada para confirmação do Conselho de Segurança.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A sanção consiste em determinação da perda de direito de voto na Assembleia Geral, por parte do Estado penalizado, a partir de recomendação de dois terços dos membros da Organização das Nações Unidas.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A sanção consiste em possibilidade de expulsão da Organização das Nações Unidas, pela Assembleia Geral, mediante recomendação do Conselho de Segurança.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 9,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ética Profissional",
+    "questao": "<p><span style=\\\"font-size: 12px;float: none;\\\">A advogada Marta, conhecida por sua longa e bem-sucedida carreira na advocacia, trabalha em um grande escritório, onde é muito querida e admirada por todos. Ao perceber uma mudança brusca em sua personalidade e em seu comportamento, os colegas de Marta indicam que ela consulte um especialista em transtornos psiquiátricos. Seguindo o conselho de seus colegas de profissão, Marta procurou um médico e foi diagnosticada com doença mental considerada curável, mediante tratamentos medicamentoso e terapêutico.</span><br style=\\\"font-size: 12px;\"/><span style=\"font-size: 12px;float: none;\">Tendo em vista o diagnóstico obtido, é correto afirmar que a advogada Marta:</span><!--EndFragment--><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Incide em causa de impedimento para o exercício da advocacia.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p><span style=\"font-size: 13px;float: none;\">Incide em causa de licença do exercício da advocacia</span>.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Incide em causa de suspensão do exercício da advocacia.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Incide em causa de cancelamento de sua inscrição nos quadros da OAB.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 10,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ética Profissional",
+    "questao": "<p><span style=\\\"font-size: 12px;float: none;\\\">O Conselho Seccional A, após realizar o inventário de seus equipamentos eletrônicos, percebeu que havia um número exacerbado de computadores e impressoras sem uso no local de sua sede. Dessa forma, visando a eliminar o excesso de aparelhos e eventuais danos às máquinas em razão do desuso, decide transferir os bens excedentes para o Conselho Seccional B, que recentemente sofreu inúmeras perdas materiais em decorrência de uma enchente.</span><br style=\\\"font-size: 12px;\"/><span style=\"font-size: 12px;float: none;\">Diante do caso narrado, assinale a alternativa correta:</span><!--EndFragment--><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>É possível a transferência de bens e recursos de um Conselho Seccional a outro, desde que haja autorização do Conselho Federal.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>É possível a transferência de bens e recursos de um Conselho Seccional a outro, desde que haja concordância do Conselho Seccional beneficiado.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A transferência de bens e recursos de um Conselho Seccional a outro é vedada pelo Regulamento Geral da OAB, em qualquer hipótese.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>É possível a transferência de bens e recursos de um Conselho Seccional a outro, sendo dispensada autorização ou concordância de qualquer órgão, tendo em vista o caráter de urgência e necessidade observado no caso.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 11,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Civil",
+    "questao": "<p><span style=\\\"text-align: justify;\\\">Luciana é casada com Alexandre há mais de 15 anos e dessa relação tiveram uma filha chamada Livia. Luciana sempre se deu bem com a família de seu marido, especialmente com seu sogro Dércio.</span><br/></p><p style=\\\"text-align: justify;\"><span style=\"color: #0d0d0d;\">Em 2020 Luciana e Alexandre resolveram se separar de forma amigável. Após 2 anos da separação, Luciana decidiu se casar com Dércio, pai de seu ex-marido Alexandre, com quem teve um relacionamento após o divórcio. </span></p><p style=\"text-align: justify;\"><span style=\"color: #0d0d0d;\">Dessa forma, Luciana e Dércio te procuram para obter informações sobre a celebração do casamento em cartório. Diante disso, assinale a alternativa correta:</span></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Luciana e Décio não poderão se casar, pois são impedidos de contraírem matrimônio, haja vista que sogro não pode se casar com nora, mesmo que ela já tenha se separado de Alexandre há mais de 2 anos.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Luciana e Décio poderão se casar, uma vez que já se passaram mais de 2 anos desde o divórcio com Alexandre, não havendo impedimento legal para tal união.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Luciana e Décio poderão se casar, pois não existe mais vínculo matrimonial entre Luciana e Alexandre, permitindo que Luciana se case com o pai de seu ex-marido, ainda que a união fosse recente e inferior a 2 anos.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Luciana e Décio não poderão se casar, pois, embora não haja previsão legal no Código Civil, trata-se de ato imoral, haja vista que sogro não pode se casar com nora.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 12,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Empresarial",
+    "questao": "<p>A 456 matilha S/A empresa que atua no ramo de turismo, diante de forte crise econômica a qual é submetida, distribuiu pedido de recuperação judicial. O pedido foi recebido pelo juízo da 4º Vara de Falência e Recuperação Judicial da comarca de Murundum, sendo que ao proferir o despacho inicial, o juiz determinou nomeou perito para verificar as reais condições de funcionamento da requerente. Tal providência é conhecida como:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>perícia recuperacional.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>constatação prévia.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>indeferimento preliminar da recuperação judicial.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>suspensão temporária da recuperação judicial.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 13,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Tributário",
+    "questao": "<p>A empresa 789 Milhagem S.A., após as dificuldades vividas em 2023, entrou em recuperação judicial e requereu, perante a Secretaria Estadual de Fazenda do Estado de São Paulo, o parcelamento de suas dívidas tributárias estaduais. O Estado de São Paulo dispunha de uma lei geral de parcelamento tributário, mas não de uma lei específica para parcelamento de débitos tributários de devedor em recuperação judicial.<br/>Diante desse cenário, assinale a afirmativa correta.<br/></p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O parcelamento do crédito tributário exclui a incidência de multas, em regra, no caso de devedor em recuperação judicial.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O parcelamento do crédito tributário exclui a incidência de juros, em regra, no caso de devedor em recuperação judicial.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O parcelamento não pode ser concedido caso inexista lei específica estadual que disponha sobre as condições de parcelamento dos créditos tributários do devedor em recuperação judicial.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O prazo de parcelamento a ser concedido ao devedor em recuperação judicial quanto a tais débitos para com o Estado de São Paulo não pode ser inferior ao concedido por lei federal específica de parcelamento dos créditos tributários do devedor em recuperação judicial.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 14,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ambiental",
+    "questao": "<p>A empresa Reciclar S.A., operando no setor de produção de embalagens plásticas, busca se adequar às exigências da Lei nº 12.305/2010 (Política Nacional de Resíduos Sólidos). A empresa pretende desenvolver um plano de gerenciamento de resíduos sólidos para melhorar sua gestão ambiental. Considerando a norma aplicável, avalie as seguintes afirmativas e assinale a correta:</p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O plano de gerenciamento de resíduos sólidos deve incluir ações de logística reversa, independentemente da viabilidade econômica para a empresa.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A empresa Reciclar S.A. deve elaborar o plano de gerenciamento de resíduos sólidos, abrangendo as ações de prevenção e redução na geração de resíduos, além de critérios para o acondicionamento, coleta, tratamento e disposição final ambientalmente adequada dos resíduos.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A responsabilidade pelo gerenciamento de resíduos sólidos de embalagens plásticas utilizadas pela Reciclar S.A. cabe exclusivamente aos consumidores finais.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A empresa Reciclar S.A. está dispensada de elaborar um plano de gerenciamento de resíduos sólidos, pois os planos são obrigatórios apenas para órgãos públicos e não para empresas privadas.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 15,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Administrativo",
+    "questao": "<p>A sociedade de economia mista ABC, exploradora de atividade econômica, integrante da administração pública indireta do Estado Beta, pretende celebrar contrato de execução de obra pública, consistente na construção de pequeno galpão, cujo valor orçado é de R$ 90.000,00 (noventa mil reais).<br/>O departamento jurídico da mencionada sociedade de economia mista, consultado, sugeriu a realização de contratação direta, por ser hipótese de licitação dispensável, tendo em vista o valor da obra a ser realizada. <br/>Segundo aquele órgão, o valor estimado não exige a realização de licitação.<br/>Considerando a situação narrada, aponte o item correto. <br/></p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>É dispensável a realização de licitação por sociedade de economia mista para obras de valor até R$ 100.000,00 (cem mil reais). Sendo o valor estimado de R$ 90.000,00 (noventa mil reais), é dispensável a licitação.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>É ilegal, no caso, a contratação direta, uma vez que o valor do contrato exige realização de licitação.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Pode haver, no caso, a contratação direta, porém por inexigibilidade e não por dispensa.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A contração direta, no caso, é válida, cabendo ser escolhida a dispensa ou a inexigibilidade.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 16,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Trabalho",
+    "questao": "<p>Aline Costa foi contratada para trabalhar como recepcionista na sociedade empresária “Alfa LTDA” na data de 12/04/2020. A empregada laborava de segunda-feira a sexta-feira, das 9 horas às 18 horas, com uma hora de intervalo para refeição e descanso e, durante a mesma jornada de trabalho, Aline também prestava serviços para a sociedade empresária “Beta LTDA”, integrante de grupo econômico com a empresa “Alfa LTDA”. Em maio de 2023, Aline questionou ao departamento de recursos humanos o motivo pelo qual assinou contrato de trabalho apenas com a empresa “Alfa LTDA”, mas também prestava serviços para a empresa “Beta LTDA”. Diante de tal questionamento, a empregada recebeu a informação de que não seria obrigatório manter contrato de trabalho com ambas as empresas. Considerando a situação acima narrada, assinale a alternativa correta:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Não seria obrigatória a assinatura de contratos de trabalho com ambas as empresas, pois a prestação de serviços a mais de uma empresa do mesmo grupo econômico, durante a mesma jornada de trabalho, não caracteriza a coexistência de mais de um contrato de trabalho.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Aline não poderia prestar serviços para ambas as empresas do grupo econômico, durante a mesma jornada de trabalho, em nenhuma hipótese.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Como a empregada prestava serviços a mais de uma empresa do grupo econômico, durante a mesma jornada de trabalho, seria obrigatória a assinatura de contratos de trabalho com ambas as empresas.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Tanto a empresa “Alfa LTDA” quanto a empresa “Beta LTDA” deveriam assinar contrato de trabalho com Aline, bem como ambas as empresas deveriam assinar a CTPS da empregada.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 17,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Trabalho",
+    "questao": "<p>Amanda Ferreira foi contratada pelo período de 45 dias por período de experiência e durante seu contrato engravidou. Marco Antônio Barros foi eleito como delegado sindical do sindicato representativo de sua categoria profissional para cumprir mandato de um ano. Bruno Guedes foi nomeado como membro do Conselho Curador do FGTS para representar os interesses dos trabalhadores. Mariana Silva foi indicada como Presidente da CIPA por seu empregador para cumprir mandato de um ano. Considerando os casos acima mencionados, é correto afirmar que possuem estabilidade provisória somente:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Marco Antônio e Amanda.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Amanda e Bruno.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Bruno e Mariana.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Mariana e Marco Antônio.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 18,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Civil",
+    "questao": "<p>Amanda, solteira e sem filhos, decide doar um de seus imóveis, mediante instrumento contratual, para sua sobrinha, Viviane. <br/>A doação é regular e nesse instrumento, Amanda determina que esse imóvel seja destinado, exclusivamente, para atividades de proteção ao meio ambiente, de forma que, eventual renda obtida, deveria ser destinada ao fundo “salve a Amazônia”. <br/>Não obstante, restou estabelecido, outrossim, que o imóvel não poderia ter a finalidade residencial. Viviane assume o compromisso de cumprir tal destinação, todavia, certo tempo depois, passa a utilizar referido imóvel para a própria moradia.<br/>Com base nesse contexto, assinale a alternativa correta:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Viviane não poderá ser impedida de continuar utilizando o imóvel para sua moradia, uma vez que a doação é irrevogável, e a condição estabelecida não possui respaldo legal para revogação.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Viviane poderá permanecer utilizando o imóvel para sua moradia, pois Amanda não possui base legal para revogar a doação sem a devida comprovação de utilização ilícita.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Viviane não poderá ser despejada do imóvel, uma vez que a revogação da doação só é possível mediante decisão judicial.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Viviane poderá ser alvo da revogação da doação, pois houve inexecução do encargo estabelecido por Amanda.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 19,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ética Profissional",
+    "questao": "<p>Ana Poliana foi convidada pela Sociedade de Advogados XYZ para atuar em determinadas causas da sociedade. Ana Poliana não integrará a sociedade de advocacia, mas terá participação nos honorários provenientes das ações às quais ela atuar. <br/>De acordo com o Estatuto da Advocacia e da OAB é correto afirmar que:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Ana Poliana poderá associar-se à Sociedade XYZ para prestação de serviços e participação nos resultados. Contudo, essa associação deve restringir-se a determinada causa ou trabalho e deverá ser registrado no contrato da sociedade junto ao Conselho Seccional da OAB em cuja base territorial tiver sede a sociedade de advogados que dele tomar parte, sob pena de configurar vínculo empregatício.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Ana Poliana poderá associar-se à Sociedade XYZ para prestação de serviços e participação nos resultados. Essa associação deverá ocorrer por meio de pactuação de contrato próprio, que poderá ser de caráter geral ou restringir-se a determinada causa ou trabalho e que deverá ser registrado no Conselho Seccional da OAB em que Ana Poliana tiver sua inscrição principal.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Ana Poliana poderá associar-se à Sociedade XYZ para prestação de serviços e participação nos resultados, sendo vedada a repartição dos riscos entre as partes. Essa associação poderá ser de caráter geral ou restringir-se a determinada causa ou trabalho.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Ana Poliana poderá associar-se à Sociedade XYZ para prestação de serviços e participação nos resultados. Essa associação deverá ocorrer por meio de pactuação de contrato próprio, que poderá ser de caráter geral ou restringir-se a determinada causa ou trabalho e que deverá ser registrado no Conselho Seccional da OAB em cuja base territorial tiver sede a sociedade de advogados.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 20,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ambiental",
+    "questao": "<p>Antonio é réu em ação penal, em razão de suposta prática de crime ambiental. A esse respeito, de acordo com a Lei Federal n. 9.605/1998, é incorreto afirmar que:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Não é crime o abate de animal quando realizado para saciar a fome do agente ou de sua família.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A suspensão condicional do processo não poderá ter seu período de prova prorrogado, por haver regra proibitiva específica na lei de crimes ambientais.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A composição do dano ambiental é condição para o oferecimento do benefício da transação penal, salvo comprovada impossibilidade.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A prática de delito ambiental em épocas de seca ou inundações é circunstância que agrava a pena, quando não constitui ou qualifica o crime.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 21,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Eleitoral",
+    "questao": "<p>Após as formalidades necessárias ao cumprimento das condições de elegibilidade, os partidos realizarão o pedido de registro de candidatura daqueles(as) que foram escolhidos(as) em convenção partidária. Sobre o assunto, assinale a única alternativa correta:</p><p style=\\\"font-size: 12px;\\\"><br style=\\\"font-size: 12px;\"/><!--EndFragment--><br/></p><p><br/></p><p><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>cada partido poderá registrar candidatos para a Câmara dos Deputados no total de até 100% do número de lugares a preencher.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>cada partido poderá registrar candidatos para a Câmara dos Deputados no total de até 200% do número de lugares a preencher.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>cada partido poderá registrar candidatos para a Câmara dos Deputados no total de até 150% do número de lugares a preencher mais 1 (um).</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>cada partido poderá registrar candidatos para a Câmara dos Deputados no total de até 100% do número de lugares a preencher mais 1 (um).</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 22,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Civil",
+    "questao": "<p>Após uma viagem para o Guarujá-SP, os pais de Pietro e Júlio, grandes empresários, acabaram se envolvendo em um grave acidente de trânsito e vieram a óbito. Pietro e Júlio, irmãos, ambos solteiros, promoveram a abertura do inventário dos bens deixados por seus finados pais. <br/>No curso do processo, Júlio, em notória insolvência em razão de um contrato de empréstimo firmado com Felipe, de má fé, transferiu a um terceiro todos os seus direitos hereditários. Com base nessa situação, o juízo do inventário declarou o ato ineficaz, de ofício, alegando fraude contra credores por parte de Júlio. <br/>Diante da situação assinale a alternativa correta.<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O juiz não agiu corretamente uma vez que a fraude contra credores não pode ser conhecida de ofício pelo juiz, pois somente será verificada mediante provocação dos interessados.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O juiz agiu corretamente pois o ato praticado por Júlio era notoriamente prejudicial aos credores, justificando a declaração de fraude contra credores de ofício.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O juiz não agiu corretamente pois deveria ter aguardado a manifestação dos credores para declarar a fraude de ofício.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O juiz agiu corretamente pois, ao identificar a fraude contra credores de forma clara e evidente, agiu em consonância com os princípios da efetividade e da instrumentalidade do processo, garantindo a justa resolução do litígio.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 23,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Constitucional",
+    "questao": "<p>Determinado projeto de lei complementar, de iniciativa do Senado Federal, foi devidamente discutido, votado e aprovado. Após, foi revisto e discutido pela outra Casa, tendo sido aprovado o projeto foi enviado para à sanção. Diante o exposto, caso considere o projeto no todo ou em parte inconstitucional, o Presidente da República poderá:<br/></p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Se o Presidente da República considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, no prazo de dez dias úteis, contados da data do recebimento, e comunicará, dentro de setenta e duas horas, ao Presidente do Senado Federal os motivos do veto;<br/></p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Se o Presidente da República considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, deverá envia-lo para o Supremo Tribunal Federal realizar o controle preventivo;</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Se o Presidente da República considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, no prazo de quinze dias úteis, contados da data do recebimento, e comunicará, dentro de quarenta e oito horas, ao Presidente do Senado Federal os motivos do veto;</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Se o Presidente da República considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, deverá enviá-lo para o Supremo Tribunal Federal realizar o controle repressivo.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 24,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Constitucional",
+    "questao": "<p>Devido à grave crise econômica que o país se encontra, grandes empresas estão requerendo a Recuperação Judicial, nos termos da legislação específica. Dentre elas a Empresa XYZ, com cerca de 900 funcionários. Com a notícia da Recuperação requerida, alguns funcionários procuraram um advogado para orientação jurídica acerca da verbas rescisórias devidas. Em razão do exposto, os funcionários foram orientados à impetrar um Mandado de Segurança Coletivo, então é correto afirmar que:<br/><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Deverá ser impetrado somente pelo Governador de Estado ou do Distrito Federal;<br/></p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Deverá ser impetrado por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos dois anos, em defesa dos interesses de seus membros ou associados;</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>No mandado de segurança coletivo, a sentença fará coisa julgada limitadamente aos membros do grupo ou categoria substituídos pelo impetrante;</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>No mandado de segurança coletivo, a liminar só poderá ser concedida após a audiência do representante judicial da pessoa jurídica de direito público, que deverá se pronunciar no prazo de 24 (vinte e quatro) horas.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 25,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Penal",
+    "questao": "<p>Em abordagem durante uma blitz, em rodovia federal, um policial constatou alteração no chassi do veículo sob fiscalização, e a falsificação de parte do licenciamento. Ao ser questionado pelo policial, o condutor desse veículo ofereceu significativa quantia em dinheiro para que o policial o liberasse de imediato. Considerando esse caso, é certo afirmar que<br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A remarcação de novo número no chassi e a falsificação do certificado de registro do veículo caracterizam crimes diversos: um para o delito de adulteração do chassi, e outro para o de falsificação de documento, ambos com previsão no Código de Trânsito Brasileiro.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A remarcação de novo número no chassi e a falsificação do certificado de registro do veículo caracterizam crime único de falsificação de documento público.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O fato de haver crime contra a administração pública afasta a tipificação de eventual crime previsto no Código de Trânsito Brasileiro, em razão do princípio da especialidade.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A remarcação de novo número no chassi e a falsificação do certificado de registro do veículo caracterizam o crime de estelionato, não afastando a penalização por parte do Código de Trânsito Brasileiro.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 26,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Civil",
+    "questao": "<p>Em processo da competência originária do tribunal, o desembargador a quem coube a sua relatoria indeferiu o requerimento de tutela provisória de urgência formulado na petição inicial. Para tanto, invocou o desembargador relator um posicionamento manifestamente contrário a dispositivo de lei federal. No que se refere a esse provimento monocrático, é correto afirmar que é:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>irrecorrível, podendo o interessado se valer do mandado de segurança para impugná-lo.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>impugnável pelo recurso de agravo de instrumento.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>impugnável pelo recurso de agravo interno.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>impugnável pelo recurso especial.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 27,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo do Trabalho",
+    "questao": "<p>Em processo trabalhista ajuizado por Gustavo Dantas em face de seu ex-empregador, a 3ª Vara do Trabalho de Niterói/RJ designou a audiência para o dia 02/07/2023, no horário das 7 horas. Na data da audiência, compareceram o reclamante e o preposto da reclamada, acompanhados de seus advogados. Considerando o caso acima narrado e as regras constantes na Consolidação das Leis do Trabalho, assinale a alternativa correta acerca dos horários das audiências na Justiça do Trabalho:<br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O horário da audiência estava correto, uma vez que na Justiça do Trabalho, as audiências serão previamente fixadas em dias úteis, das 6 horas às 18 horas.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O horário da audiência estava incorreto, uma vez que na Justiça do Trabalho, as audiências serão previamente fixadas em dias úteis, das 8 horas às 18 horas.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O horário da audiência estava correto, uma vez que na Justiça do Trabalho, as audiências serão previamente fixadas em dias úteis, das 6 horas às 20 horas.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O horário da audiência estava incorreto, uma vez que na Justiça do Trabalho, as audiências serão previamente fixadas em dias úteis, das 8 horas às 20 horas.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 28,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Financeiro",
+    "questao": "<p>Em relação à flexibilidade para alterações no projeto da Lei Orçamentária Anual do setor público, assinale a afirmativa correta.  </p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Uma vez elaborado, o projeto da LOA é imutável no exercício para o qual é previsto.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>As emendas parlamentares consistem no mecanismo por meio do qual é possível alterar tanto a receita estimada quanto a despesa fixada no orçamento do setor público.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O orçamento impositivo prevê a faculdade de se aprovar emendas parlamentares individuais ao projeto de lei orçamentária anual até o limite de 1,2% da receita corrente líquida (RCL) prevista no projeto de lei orçamentária encaminhado pelo Poder Executivo para aquele exercício financeiro.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A fim de evitar favorecimentos políticos, apenas as emendas parlamentares de comissão possuem caráter obrigatório.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 29,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Civil",
+    "questao": "<p>Em um determinado processo em cujo polo passivo figurava ente federativo municipal, o juiz da causa proferiu uma decisão interlocutória que padecia de erro material. Nesse contexto, é correto afirmar que o Município:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>não poderá interpor embargos de declaração, por falta de interesse recursal, bastando-lhe protocolizar petição simples.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>não poderá interpor embargos de declaração, por incabíveis, já que o provimento jurisdicional não é uma sentença.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>poderá interpor embargos de declaração, no prazo de cinco dias úteis, a partir da intimação regular.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>poderá interpor embargos de declaração, no prazo de dez dias úteis, a partir da intimação regular.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 30,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo do Trabalho",
+    "questao": "<p>Em um processo trabalhista, o reclamante pleiteou pagamento de indenização, alegando que seu ex-empregador não forneceu as guias referentes ao seguro-desemprego após sua dispensa sem justa causa. Ainda, foi requerida a condenação criminal da reclamada nas penalidades criminais do artigo 49 da CLT, em razão do empregador ter adulterado de maneira dolosa a CTPS do reclamante. Considerando a situação acima narrada e as regras de competência material da Justiça do Trabalho, assinale a alternativa correta:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Apenas o pedido de condenação criminal da reclamada na penalidade do artigo 49 da CLT insere-se na competência da Justiça do Trabalho.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Tanto o pedido de indenização pelo não fornecimento das guias do seguro-desemprego quanto o pedido de condenação criminal da reclamada na penalidade do artigo 49 da CLT são de competência da Justiça do Trabalho.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Apenas o pedido de indenização pelo não fornecimento das guias do seguro-desemprego insere-se na competência da Justiça do Trabalho.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O pedido de indenização pelo não fornecimento das guias do seguro-desemprego, bem como o pedido de condenação criminal da reclamada na penalidade do artigo 49 da CLT não são de competência da Justiça do Trabalho.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 31,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Tributário",
+    "questao": "<p>Entre os anos de 2010 e 2021, Maria e Ricardo eram sócios da Sociedade Empresária XFITINESS Ltda., onde cada um detinha 50% do capital social e ambos possuíam poderes de administração.<br/>Cansado de tantos anos de trabalho, e pensando em sua aposentadoria, Ricardo, em janeiro de 2020, resolve sair regularmente da sociedade, e assim realizou a alienação de suas cotas sociais para Arcelino. Arcelino, se torna sócio também com 50% do capital social, e após a reorganização da empresa passa a exercer a gestão juntamente com Maria, ambos com poderes de administração. Em 20 de dezembro de 2023 foi ajuizada uma ação de execução fiscal contra a Sociedade Empresarial XFITINESS Ltda. para a cobrança de um crédito tributário relativo a um fato gerador ocorrido no ano de 2020. Bem como, no momento da citação na execução fiscal, o procurador verificou que a empresa havia sido dissolvida irregularmente em agosto de 2023, e não possui mais bens, e diante disto, decidiu requerer o redirecionamento da execução fiscal.<br/>Diante do narrado e conforme o previsto no CTN, assinale a alternativa correta.<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Apenas Maria e Arcelino respondem pessoalmente em caso de redirecionamento da execução fiscal por dissolução irregular.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Apenas Maria e Ricardo respondem solidariamente em caso de redirecionamento da execução fiscal por dissolução irregular da sociedade.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Apenas a Sociedade Empresária XFITINESS Ltda. responderá pela dívida tributária, não sendo possível o redirecionamento da execução fiscal por dissolução irregular da sociedade..</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Apenas Maria responderá pessoalmente em caso de redirecionamento da execução fiscal por dissolução irregular da sociedade..</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 32,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Penal",
+    "questao": "<p>Enza subtraiu quatro relógios da casa de Lucas, mas, após 8 meses deste evento, ainda durante as investigações policiais, Enza envia todos os bens de volta para Lucas, com o bilhete: “Em sonho, Deus me revelou que eu deveria voltar atrás da minha atitude equivocada. Desculpe-me. Foi um devaneio”. Diante disso, é certo que:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Trata-se de arrependimento eficaz, uma vez que a agente esgotou todos os meios que possuía para consumar o crime, mas evitou a ocorrência do resultado.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Trata-se de perdão do ofendido, configurado a partir do momento em que a agente emite o pedido de desculpa e a vítima, ainda que tacitamente, aceita-o.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Trata-se de desistência voluntária, pois, voluntariamente, a agente desiste de prosseguir na execução ou impede que o resultado se produza.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Trata-se de arrependimento posterior, pois a restituição dos bens ocorreu após a consumação, mas antes do recebimento da denúncia.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 33,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Trabalho",
+    "questao": "<p>Fabiano Guedes trabalhou para a indústria bioquímica “Medicamentos LTDA”, no período de 13/06/2016 a 28/10/2022. No desempenho de suas atividades laborativas, Fabiano exercia a função de recepcionista, mas mantinha contato intermitente com agentes nocivos à sua saúde no auxílio dos biomédicos na manipulação de medicamentos e fórmulas, sem a utilização de equipamentos adequados para sua proteção. Durante todo o contrato de trabalho, o empregado Fabiano nunca recebeu qualquer valor referente ao contato com agentes nocivos à sua saúde. Considerando o caso acima narrado, é correto afirmar:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Fabiano teria direito a receber adicional de periculosidade, em razão do contato com agentes nocivos à sua saúde.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Fabiano não teria direito ao recebimento de adicional de insalubridade, pois mantinha apenas contato intermitente com agentes nocivos à sua saúde.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Fabiano teria direito ao recebimento de adicional de insalubridade, pois o trabalho insalubre, em caráter intermitente, não afasta, por si só, o direito à percepção do respectivo adicional.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Fabiano não teria direito a receber adicional de periculosidade, uma vez que não mantinha contato permanente com agentes nocivos à sua saúde.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 34,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Penal",
+    "questao": "<p>Flávio ingeriu bebida alcoólica em uma festa open bar. Nessa mesma festa, agrediu um casal de namorados, que acabou por conduzir a moça à morte, por consequência da hemorragia consequente da lesão que recebeu. O rapaz, por sua vez, sofreu lesões leves. Diante dessa situação, pode-se afirmar corretamente que:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Diante da embriaguez de Flávio, ele deve ser considerado inimputável.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Como Flávio consumiu a bebida de forma voluntária, fica afastada por completo a tese da inimputabilidade penal.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Receberá causa de diminuição de pena, pois ocorreu embriaguez completa, proveniente de caso fortuito ou força maior, não possuindo, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Flávio está isento de pena, por embriaguez proveniente de caso fortuito ou força maior, não possuindo, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 35,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Previdenciário",
+    "questao": "<p>Francisco Almeida trabalhou como empregado durante 30 anos na sociedade empresária “Sigma LTDA”. Na data de 23/01/2024, Francisco faleceu em decorrência de uma doença cardíaca, deixando apenas sua esposa viúva como dependente. Em razão do falecimento de Francisco, a viúva requereu o pagamento de pensão por morte 30 dias após o óbito. Considerando a situação acima narrada, assinale a alternativa correta:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A pensão por morte será devida à viúva de Francisco a partir da data do requerimento.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A pensão por morte será devida à viúva de Francisco a partir da data do óbito.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A pensão por morte será devida à viúva de Francisco a partir da data do deferimento no âmbito administrativo.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A pensão por morte será devida à viúva de Francisco a partir da data da decisão judicial.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 36,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Penal",
+    "questao": "<p>Gena, Delegada de Polícia, preside uma investigação que apura a prática da infração de homicídio praticado por Getúlio contra Fátima. Após realizar diligências, não se verificou a existência de justa causa, o que a motivou a emitir seus relatórios finais conclusivos. O Ministério Público promoveu o arquivamento e o juiz homologou. Dias depois, Gena chega à informação de que um celular foi encontrado no local da morte, que não fora apreendido, e que nele havia imagens que seriam suficientes para compor o lastro probatório. Gena recebera também a informação de que a família de Fátima descobriu novo documento, não apresentado antes por temor da outra pessoa amiga de Fátima – Jéssica: uma conversa delas, onde ela narrava as ameaças que vinha sofrendo de Getúlio, sendo por diversas vezes constrangida com investidas sexuais.</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>não poderá haver prosseguimento das investigações, tendo em vista que houve decisão de arquivamento que fez coisa julgada.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>não poderá desarquivar em virtude de o celular não ter sido apreendido no momento em que a autoridade policial esteve no local para investigar o crime, colhendo todas as provas e objetos relacionados. Poderá, contudo, ser desarquivado em virtude da conversa da vítima com sua amiga, que não era conhecida no momento anterior.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>não poderá haver desarquivamento do inquérito que investigava a morte de Fátima, pois as provas, tanto o celular quanto o documento obtido pela família já existiam quando do arquivamento.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>poderá haver desarquivamento do inquérito que investiga a morte de Fátima, pois houve prova nova, ainda que o celular já existisse antes do arquivamento.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 37,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Penal",
+    "questao": "<p>Genival é seu cliente no escritório de advocacia em que você trabalha, and está sendo investigado por um delito. Diversas provas foram coletadas durante a tramitação do inquérito policial, possibilitando o oferecimento da denúncia, mas, durante o curso da ação penal, não foi possível a realização das provas sob o crivo do contraditório. Diante disso, é certo afirmar que:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O juiz não pode fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Se as provas não forem produzidas, o juiz deve determinar que se faça o aditamento da denúncia. Se o Promotor de Justiça não o fizer, o juiz deverá encaminhar os autos ao Procurador-Geral de Justiça.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Se não houver a confirmação das provas durante a instrução, o juiz poderá rejeitar a denúncia conforme artigo 395 do Código de Processo Penal.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O juiz pode fundamentar sua decisão exclusivamente nos elementos informativos colhidos no inquérito policial.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 38,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Consumidor",
+    "questao": "<p>Há 15 dias, Amélia comprou pela internet um computador na loja LEED. Após essa compra, teve conhecimento de que seus dados não sensíveis foram vazados pelo site dessa empresa e comercializados para terceiros, que passaram a importuná-la com inúmeras ligações de telemarketing. O prazo de entrega do computador é de 30 dias úteis, e o produto ainda não chegou até Jurema. Diante disso, a cliente quer desfazer o negócio com a loja.<br/>Nesse contexto hipotético, é correto afirmar, considerando a atual legislação vigente e a jurisprudência do STJ, que Jurema<br/></p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>terá direito a reparação por danos morais in re ipsa, em razão do fato de seus dados terem sido comprovadamente vazados pela loja Y.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>não poderá se valer do direito de arrependimento, pois teria prazo de 7 dias para se arrepender a contar da data de compra, sendo que, já passados 20 dias, nada poderá fazer nesse sentido.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>terá direito a reparação por danos morais se comprovar os danos sofridos, em razão do fato de seus dados terem sido vazados pela loja LEED.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>poderá, em 90 dias a partir da data do recebimento, se arrepender, por se tratar de um produto durável, sem ter o dever de prestar esclarecimentos dos motivos de sua decisão.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 39,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Tributário",
+    "questao": "<p>Iniciado o ano de 2024, o governo com a intenção de aumentar a arrecadação solicita a Receita Federal que intensifique as fiscalizações de empresas. Assim, após uma fiscalização na empresa Amazonas Livros Ltda., que atua no setor de comercialização de livros eletrônicos, e leitores de livros eletrônicos, foi lavrado um auto de infração e imposição de multa de R$ 750.000,00 (setecentos e cinquenta mil reais), diante do não recolhimento do Imposto de Importação e da Contribuição Social sobre Lucro Líquido, referente ao ano de 2022 e 2023 que seria incidente sobre os livros eletrônicos e leitores de livros eletrônicos comercializados no Brasil.<br/>Após o recebimento do Auto de Infração e imposição de multa, a empresa Amazonas Livros Ltda., te contrata para que possa apresentar uma defesa diante do fato ocorrido. Assim, assinale a alternativa correta, quanto a imunidade tributária dos livros.<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Apenas a Contribuição Social sobre Lucro Líquido é indevida, pois os livros eletrônicos e os leitores de livros eletrônicos, se enquadram na imunidade tributária dos livros.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O Imposto de Importação e a Contribuição Social sobre Lucro Líquido são devidos, pois os livros eletrônicos e os leitores de livros eletrônicos, não se enquadram na imunidade tributária dos livros.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O Imposto de Importação e a Contribuição Social sobre Lucro Líquido são indevidos, pois os livros eletrônicos e os leitores de livros eletrônicos se enquadram na imunidade tributária dos livros.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Apenas o Imposto de Importação é indevido, pois os livros eletrônicos e os leitores de livros eletrônicos, se enquadram na imunidade tributária dos livros.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 40,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Civil",
+    "questao": "<p>Intentada ação por meio da qual o autor pleiteava a condenação do fiador de determinada obrigação a cumpri-la, o réu, depois de validamente citado, pretende que a sua afiançada, uma pessoa jurídica, passe também a integrar o polo passivo do processo.<br/>Para tanto, caberá ao réu se valer do(a):<br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>chamamento ao processo, devendo a citação da afiançada ser requerida na peça de contestação.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>chamamento ao processo, devendo a citação da afiançada ser requerida numa peça autônoma, em até três dias após o oferecimento da contestação.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>denunciação da lide, devendo a citação da afiançada ser requerida na peça de contestação.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>denunciação da lide, devendo a citação da afiançada ser requerida numa peça autônoma, em até três dias após o oferecimento da contestação.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 41,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Penal",
+    "questao": "<p>Ivan, em 2017, foi regularmente processado e condenado pela prática de extorsão mediante sequestro. A defesa interpôs recurso de Apelação, havendo sido recebido e processado. O tribunal, de forma não unânime, manteve a condenação imposta pelo juízo a quo. O advogado do réu observa que o acórdão viola diretamente alguns dispositivos da Constituição Federal, razão pela qual resolve recorrer novamente. Dessa vez, da decisão exarada pela Segunda Instância. Na hipótese da sua contratação para defendê-lo, você opta por interpor:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Apelação, por ser o meio adequado para impugnar decisões de segunda instância.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Recurso Extraordinário, por ser meio adequado para impugnar decisões que desafiarem dispositivos constitucionais.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Embargos Infringentes, por haver decisão não unânime de segunda instância desfavorável ao réu.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Recurso Ordinário Constitucional, por ser específico para atacar as decisões que atingem diretamente princípios e direitos previstos na Constituição Federal.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 42,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Estatuto da Criança e do Adolescente",
+    "questao": "<p>Jefferson, adolescente de 16 anos, pratica ato infracional análogo a roubo, sendo-lhe aplicada a medida socioeducativa de semiliberdade, pelo prazo inicial de doze meses. Decorridos seis meses de cumprimento da medida, no Plano Individual de Atendimento (PIA), a equipe técnica da unidade sugere que Jefferson realize curso profissionalizante ofertado por entidade não governamental existente no Município, sendo o pedido indeferido pelo juízo, que veda a realização de quaisquer atividades externas pelo adolescente. Considerando o disposto na Lei nº 8.069/1990 (ECA) acerca da medida socioeducativa de semiliberdade, é correto afirmar que:</p><p><span style=\\\"color: #343a40;\\\"></span></p><p><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>comporta prazo determinado, devendo ser reavaliada a cada seis meses.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>comporta prazo determinado, porém não pode ser aplicada por período excedente a seis meses.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>comporta prazo determinado, sendo obrigatórias escolarização e a profissionalização do adolescente.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>não comporta prazo determinado, sendo possibilitada a realização de atividades externas, independentemente de autorização judicial.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 43,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Estatuto da Criança e do Adolescente",
+    "questao": "<p>Josiane é madrinha de Pablo, que tem 8 anos, e foi nomeada como guardiã do menino em processo que tramitou em uma Vara de Infância. Apesar de ter sido sempre muito amiga dos pais da criança, Carla e Pedro, tem se desentendido com ambos após a concessão da guarda.<br/>De acordo com as disposições contidas na lei nº 8.069/1990, é correto afirmar que:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Carla é responsável por escolher a escola de Pablo, mas precisa que Josiane concorde com a sua escolha.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Josiane é responsável pela matrícula escolar de Pablo, independentemente da anuência de Carla e Pedro.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Carla deve definir onde Pablo irá estudar, mesmo que Josiane discorde de sua opção.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Carla deve definir a escola de Pablo em pleno acordo com Pedro, pai da criança.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 44,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Tributário",
+    "questao": "<p>João, sócio na empresa Olimpíadas Ltda, e seu cliente, agendou uma reunião para te informar que em 14 de dezembro de 2023, a empresa Olimpíadas Ltda., sofreu uma fiscalização federal e, ao final, foi autuada em R$ 270.000,00, além de multa e respectivos encargos, a título de Imposto sobre Produtos Industrializados (IPI) devido referente ao exercício de 2022, por omissão do envio mensal das informações fiscais em DCTF, bem como por falta de pagamento daquele imposto. Em 12 de janeiro de 2024, a empresa recebeu uma notificação de pagamento no prazo de 30 dias, e por este motivo João lhe procurou. João, possui um conhecimento básico sobre direito, e questiona se caberia na situação narrada a adoção do mecanismo da denúncia espontânea prevista no CTN.<br/>Diante do narrado, assinale a afirmativa correta.<br/><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Não poderá mais ser adotado o mecanismo de denúncia espontânea após o início de qualquer procedimento administrativo ou medida de fiscalização relacionados com a infração.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Não poderá mais ser adotado o mecanismo de denúncia espontânea, pois o limite legal para adoção deste benefício é de 40 salários-mínimos.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Poderá ser adotado o mecanismo de denúncia espontânea, já que ainda não foi ajuizada a ação de execução fiscal.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Poderá ser adotado o mecanismo de denúncia espontânea, já que ainda se está dentro do prazo de pagamento.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 45,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Empresarial",
+    "questao": "<p>Lino é gerente do estabelecimento empresarial de Teotônio Palmeira, empresário individual enquadrado como microempresa. Na ausência do empresário, sob a justificativa de que precisa de um tratamento médico, Lino decidiu transferir unilateralmente sua condição de gerente e as prerrogativas decorrentes dela a seu amigo Mário, que aceitou o encargo. Com base nessas informações, responda se tal delegação é juridicamente possível: <br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>sim, desde que o substituto concorde em responder com os bens pessoais pelas obrigações sociais.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>não, em razão de tal conduta ser vedada expressamente pelo legislador.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>sim, desde que Lino convalide os atos praticados por Mário.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Não, já que a empresa em questão é enquadrada como microempresa.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 46,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ética Profissional",
+    "questao": "<p>Lionel, advogado regularmente inscrito na OAB, deseja organizar uma chapa para concorrer à diretoria de Subseção. Ao estudar sobre os requisitos de elegibilidade dos membros dos órgãos da OAB, Lionel concluiu corretamente que:  </p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A eleição dos membros de todos os órgãos da OAB será realizada na segunda quinzena do mês de novembro do último ano do mandato e o candidato deve comprovar situação regular perante a OAB, não ocupar cargo exonerável ad nutum, não ter sido condenado por infração disciplinar, salvo reabilitação, e exercer efetivamente a profissão há mais de 3 (três) anos, nas eleições para os cargos de Conselheiro Seccional e das Subseções e há mais de 5 (cinco) anos, nas eleições para os demais cargos.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A eleição dos membros de todos os órgãos da OAB será realizada no dia 03 de outubro do último ano do mandato, mediante cédula única e votação direta dos advogados e o candidato deve comprovar situação regular perante a OAB, não ocupar cargo exonerável ad nutum, não ter sido condenado por infração disciplinar, exceto se reabilitado, e exercer efetivamente a profissão há mais de 2 (dois) anos, nas eleições para os cargos de Conselheiro Seccional e das Subseções e há mais de 3 (três) anos, nas eleições para os demais cargos.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A eleição dos membros de todos os órgãos da OAB será realizada no dia 31 de janeiro, às 19h. O candidato deve comprovar situação regular perante a OAB, não ocupar cargo exonerável ad nutum, não ter sido condenado por infração disciplinar, salvo reabilitação, e exercer efetivamente a profissão há mais de 5 (cinco) anos.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A eleição dos membros de todos os órgãos da OAB será realizada na segunda quinzena do mês de novembro do último ano do mandato e o candidato deve comprovar situação regular perante a OAB, não ocupar cargo público, nunca ter sido condenado por infração disciplinar e exercer efetivamente a profissão há mais de 3 (três) anos.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 47,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ética Profissional",
+    "questao": "<p>Manuel, bacharel em Direito, acaba de ser aprovado com louvor no mais recente Exame de Ordem. A fim de proceder à devida inscrição nos quadros da OAB, Manuel dirige-se à Secretaria da Universidade para buscar seu diploma, momento em que foi avisado de que o documento só ficaria pronto dentro de um prazo de 3 a 6 meses.<br/>Considerando o que dispõe os diplomas atinentes à advocacia, assinale a alternativa correta.</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Manuel não poderá dar início ao processo de inscrição na OAB, a menos que requeira autorização especial do Conselho Seccional a que fará parte.<br/></p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Manuel não poderá dar início ao processo de inscrição na OAB enquanto não receber o diploma, tendo em vista que se trata de elemento fundamental para tanto.<br/></p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Manuel poderá dar início ao processo de inscrição na OAB, apresentando a certidão de conclusão do curso de Direito, acompanhada do histórico escolar.<br/></p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Manuel poderá dar início ao processo de inscrição na OAB, apresentando declaração assinada pelo reitor da Universidade, atestando a impossibilidade de apresentar o diploma temporariamente.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 48,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo do Trabalho",
+    "questao": "<p>Maria Clara ajuizou reclamação trabalhista pelo procedimento ordinário em face de seu ex-empregador, pleiteando o pagamento de diversas verbas trabalhistas não pagas durante o contrato de trabalho. Em sua petição inicial, a reclamante não indicou os valores referentes aos pedidos formulados, motivo pelo qual o juiz da 5ª Vara do Trabalho de Londrina/PR extinguiu o feito sem resolução do mérito, sem conceder prazo para a autora sanar o vício. Diante do caso narrado, assinale a alternativa correta:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O juiz agiu de forma parcialmente correta, pois, além da extinção sem resolução do mérito, também deveria ter aplicado a penalidade de perempção.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O juiz agiu de forma incorreta, uma vez que deveria ter concedido prazo de 15 dias para a reclamante sanar o vício.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O juiz agiu de forma correta, uma vez que a ausência de indicação do valor do pedido na petição inicial ocasiona a extinção sem resolução do mérito.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O juiz agiu de forma incorreta, pois apenas será necessário indicar o valor dos pedidos no rito sumaríssimo trabalhista.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 49,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Administrativo",
+    "questao": "<p>Maria José, após aprovação em concurso público, foi nomeada para cargo efetivo científico no âmbito da Administração Federal, tendo tomado posse e entrado em exercício dentro do prazo legal.<br/>Após dois anos de efetivo exercício, Maria José decidiu prestar novo concurso público, dessa vez para o preenchimento de vagas de professora titular de determinada universidade federal, tendo sido também aprovada.<br/>A respeito da situação, analise os itens abaixo e aponte o correto.<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Ainda que haja compatibilidade de horários, Maria José não poderá cumular mencionados cargos, tendo em vista expressa vedação constitucional.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Maria José possui direito ao salário-mínimo em cada um dos cargos, devendo ser considerado para tanto o total da remuneração em cada um deles e não os vencimentos base respectivos.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Caso Maria José participe de movimento grevista, a administração pública não poderá, em hipótese alguma, proceder ao desconto de remuneração com relação aos dias não trabalhados.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Maria José não precisará passar por novo estágio probatório no cargo de professor uma vez que já adquiriu estabilidade no cargo científico.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 50,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Civil",
+    "questao": "<p>Marina, Letícia e Gertrudes celebram contrato de mútuo com certa instituição financeira, sendo que, de acordo com a cláusula terceira do instrumento, as devedoras são solidárias. Por questões de conveniência, a instituição financeira ajuizou ação ordinária de cobrança apenas em face de Marina e Letícia. Diante da situação narrada, assinale a afirmativa correta.</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A denunciação da lide de Gertrudes poderá ser promovida para garantir o direito de regresso, contudo, o pedido deverá ser realizado necessariamente pelas duas rés.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Caso as rés desejem que Gertrudes integre a relação processual, deverão utilizar da assistência litisconsorcial.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O pedido deve ser julgado improcedente, pois no caso há um litisconsórcio necessário e unitário em relação as três devedoras.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Marina ou Letícia poderá utilizar do chamamento ao processo com intuito de incluir Gertrudes no polo passivo da ação.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 51,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Civil",
+    "questao": "<p>Miguel Pereira firmou um contrato de seguro de vida com a empresa Seguro Protegido. Durante a vigência do contrato, Miguel Pereira faleceu. Júlia, com quem Miguel mantinha um relacionamento afetivo há muitos anos, e Beatriz, com quem Miguel ainda era legalmente casado, apesar de estarem separados de fato há mais de duas décadas, solicitaram à Seguro Protegido o recebimento do benefício do seguro de vida.<br/>A Seguro Protegido, após realizar as devidas investigações, constatou que Miguel Pereira não havia designado beneficiários para o seguro de vida, gerando incerteza sobre quem seria o beneficiário legítimo do benefício.<br/>Diante dessa situação hipotética e considerando o melhor interesse da Seguro Protegido em realizar o pagamento ao legítimo beneficiário, é correto afirmar que:<br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A Seguro Protegido se eximirá de sua obrigação pagando a qualquer das duas requerentes, pois são credoras solidárias.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A Seguro Protegido, diante da incerteza sobre a quem efetuar o pagamento, deve realizar a consignação do valor.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A Seguro Protegida, diante da incerteza sobre a quem pagar, deve dividir o valor do capital estipulado e efetuar o pagamento a ambas as requerentes em proporções iguais, uma vez que se configuraria uma obrigação divisível.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>A Seguro Protegido, diante da incerteza sobre a quem realizar o pagamento e não se tratando de consignação em pagamento, deve reter o pagamento até a conclusão do inventário.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 52,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Consumidor",
+    "questao": "<p>Mário, encontrando-se em situação de superendividamento, ingressa com ação de repactuação de dívidas. De acordo com as disposições do Código de Defesa do Consumir (Lei nº 8.078/90), Mário poderá apresentar plano de pagamento para suas dívidas. Assinale a alternativa correta acerca das dívidas que poderá ser repactuada:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Dívidas oriundas de contratos celebrados dolosamente sem o propósito inicial de realizar pagamento.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Dívidas provenientes de contratos de crédito com garantia real.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Dívidas oriundas de financiamentos imobiliários.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Dívidas oriundas de compras de móveis da linha branca em crediário.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 53,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Eleitoral",
+    "questao": "<p>Mévio, Prefeito do município Gama, que irá se candidatar à reeleição, decidiu ofertar, para as eleições de 2024, nas zonas urbanas e nos dias das eleições, transporte público coletivo urbano municipal de forma gratuita e em frequência compatível com aquela praticada em dias úteis, ao argumento de que a locomoção às seções eleitorais tem custo substancialmente maior do que o valor da multa pela abstenção.<br/>Diante do exposto e da jurisprudência do Supremo Tribunal Federal, é correto afirmar que Mévio agiu corretamente, mas somente se o Legislativo editar a lei que regulamente a matéria, a partir das eleições de 2024, o transporte coletivo urbano nos dias de votação deverá ser ofertado da forma determinada pelo Prefeito.  <br/></p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>incorretamente, pois a competência para regular o transporte público em dia de eleição é do Estado e não do município.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>incorretamente, pois a política pública implementada pelo chefe do poder executivo municipal viola o princípio da livre iniciativa e o equilíbrio do contrato de concessão do transporte público.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>incorretamente, pois a medida adotada pelo Prefeito tem a finalidade de resgatar mais votos poderá servir como instrumento de interferência no resultado eleitoral, usando a máquina pública para conseguir se reeleger.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>corretamente, pois o poder público tem o dever de adotar medidas que assegurem o exercício do direito ao voto e a medida adotada promove a igualdade de participação, acesso ao voto por parte significativa dos eleitores e o combate a ilegalidades.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 54,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Civil",
+    "questao": "<p>No ordenamento jurídico brasileiro, o Código Civil desempenha a função de regulamentar as relações privadas entre pessoas jurídicas ou naturais e entre coisas. No contexto do direito de construir, identifique a assertiva incorreta:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Na zona rural, não é autorizado erguer edificações a menos de três metros do terreno vizinho.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O proprietário do prédio vizinho possui o direito de ser ressarcido pelos prejuízos que sofrer, mesmo que já tenham sido realizadas medidas preventivas.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Não é proibido abrir janelas, ou criar eirado, terraço ou varanda, a menos de um metro e meio do terreno vizinho.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Em relação a vãos ou aberturas para a luz, independentemente da quantidade, altura e disposição, o vizinho pode, a qualquer momento, construir edificação ou contramuro, mesmo que isso impeça a entrada de claridade.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 55,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Penal",
+    "questao": "<p>O Ministério Público ofereceu denúncia em face de Jack, imputando-lhe a prática do delito de aborto sem o consentimento da gestante. Ao final da primeira fase do procedimento bifásico do Tribunal do Júri, o juiz competente entendeu que era o caso de impronunciar Jack. Regularmente intimado do teor desta decisão, o Promotor de Justiça apresentará, em consonância com o Código de Processo Penal:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>o recurso de apelação, que, para combater decisão no procedimento do júri, prevê a possibilidade de juízo de retratação pelo juízo a quo.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>o recurso em sentido estrito, que não admite juízo de retratação pelo juízo a quo.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>o recurso em sentido estrito, que prevê a possibilidade de juízo de retratação pelo juízo a quo.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>o recurso de apelação, que inadmite juízo de retratação pelo juízo a quo.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 56,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Financeiro",
+    "questao": "<p>O Prefeito do Município Alfa apresentou o projeto da lei orçamentária anual para à Câmara Municipal. Durante o trâmite legislativo, a vereadora Teresa Alves apresentou emenda ao projeto para alterar o nome de um parque municipal. O projeto foi aprovado pela Câmara, sancionado pelo Prefeito e a lei foi promulgada.<br/>Ao observar o caso, você foi consultado pelo Partido Político Delta sobre a regularidade da norma e concluiu pela violação ao princípio:<br/><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>orçamentário da limitação;.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>da publicidade;</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>do equilíbrio orçamentário;</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>da exclusividade.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 57,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Ética Profissional",
+    "questao": "<p>O advogado Gustavo, em entrevista a um grande veículo de comunicação, conhecido por tratar de fatos envolvendo a vida pessoal de famosos, violou, sem justa causa, sigilo profissional de sua cliente, ex-integrante de um reality show. Esse comportamento de Gustavo gerou repercussão pública bastante negativa à advocacia, uma vez que ganhou grande destaque na mídia nacional. Considerando a situação hipotética narrada, assinale a alternativa que está em conformidade com o Código de Ética e Disciplina da OAB.<br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>A infração cometida pelo advogado Gustavo é punível com suspensão, logo, não é admissível a celebração de Termo de Ajustamento de Conduta entre Gustavo e o Tribunal de Ética e Disciplina.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Embora a infração cometida por Gustavo seja punível com censura, não cabe celebração de Termo de Ajustamento de Conduta entre Gustavo e o Tribunal de Ética e Disciplina, em razão de o fato apurado ter gerado repercussão negativa à advocacia.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Não é admissível a celebração de Termo de Ajustamento de Conduta por Gustavo, pois o TAC é cabível somente em casos de publicidade irregular praticada por advogados e estagiários.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>É admissível a celebração de Termo de Ajustamento de Conduta em todos os casos de infração ético-disciplinar punível com censura, desde que tenha o aval da cliente que teve seu sigilo violado.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 58,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Civil",
+    "questao": "<p>O exequente obteve uma certidão de que a execução por ele proposta foi admitida pelo juiz. Ato contínuo, averbou a referida certidão no registro de imóveis, onde consta inscrito um apartamento do devedor. No curso do processo, o executado alienou a propriedade do referido bem para um terceiro. Nesse contexto:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>a alienação não configura fraude à execução, mas sim fraude contra credores.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>a alienação é eficaz, pois somente após a penhora é que o bem não pode ser alienado.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>a alienação efetuada após a averbação caracteriza fraude à execução.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>a averbação é indevida, pois não se admite emissão de certidão para esse fim.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 59,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Filosofia",
+    "questao": "<p>O jusnaturalismo como ruptura com a teocracia está vinculado ao pensamento de:</p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Thomas Hobbes.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Rousseau.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Hegel.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Hugo Grócio.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 60,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Trabalho",
+    "questao": "<p>O sindicato dos motoristas em transporte coletivo da cidade de Salvador/BA deflagrou movimento grevista para reivindicar reajuste salarial para toda a categoria. A greve foi devidamente aprovada em assembleia e o início do movimento paredista foi informado 72 horas antes da paralisação. Durante a greve, os motoristas paralisaram 100% das atividades, ocasionando enorme prejuízo para a população. Ainda, após a celebração da norma coletiva que concedeu o reajuste salarial reivindicado, os trabalhadores mantiveram a greve, motivo pelo qual, as empresas de ônibus contrataram motoristas substitutos. Considerando o caso narrado, assinale a alternativa correta:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Os trabalhadores não poderiam paralisar 100% das atividades em transporte coletivo e as empresas não poderiam contratar substitutos após a manutenção da greve, mesmo com a celebração da norma coletiva.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Os trabalhadores poderiam paralisar 100% das atividades em transporte coletivo e as empresas poderiam contratar substitutos após a manutenção da greve, mesmo com a celebração da norma coletiva.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Os trabalhadores não poderiam paralisar 100% das atividades em transporte coletivo e as empresas poderiam contratar substitutos após a manutenção da greve, mesmo com a celebração da norma coletiva.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Os trabalhadores poderiam paralisar 100% das atividades em transporte coletivo e as empresas não poderiam contratar substitutos após a manutenção da greve, mesmo com a celebração da norma coletiva.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 61,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Tributário",
+    "questao": "<p>Odair, proprietário de uma mansão no Município de São Paulo, recebeu em 17 de janeiro de 2024 o carnê para pagamento do IPTU, que foi enviado pelo município no dia 11 de janeiro de 2024, com data limite para pagamento no dia 30 de janeiro de 2024. Odair por um descuido não realizou o pagamento, e tão pouco apresentou impugnação, diante disso o Município do São Paulo inscreveu o crédito em dívida ativa em 08 de maio de 2024, e ajuizou a execução fiscal cobrando o IPTU de Odair. Ao receber a citação, para apresentar sua defesa, ofereceu como garantia ao juízo o próprio imóvel, sendo a mesma aceita pelo Município de São Paulo.<br/>Com base no caso acima, assinale a alternativa CORRETA.<br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O Crédito do IPTU foi constituído em 17 de janeiro de 2024.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O Crédito do IPTU foi constituído em 11 de janeiro de 2024.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O Crédito do IPTU foi constituído em 30 de janeiro de 2024.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O Crédito do IPTU foi constituído em 08 de maio de 2024.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 62,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Empresarial",
+    "questao": "<p>Olímpio teve seu nome negativado pela emissão de cheque sem suficiente provisão de fundos, apresentado pelo portador ao sacado por duas vezes e em ambas devolvido.  O nome do devedor foi inscrito no Cadastro de Emitentes de Cheques sem Fundos (CCF), sem que tenha havido notificação prévia ao devedor, acerca de sua inscrição no aludido cadastro, por parte do Banco do Brasil S/A, gestor do CCF.  Sentindo-se prejudicado pelos danos morais e materiais advindos da inscrição no CCF, Olímpio consulta seu advogado para que ele esclareça as questões a seguir. A devolução do cheque por duas vezes impede o credor de realizar a sua cobrança judicial?<br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Sim, ele deveria logo após a primeira devolução propor a competente ação de execução.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Não, porém o devedor deveria ter sido comunicado de que seria inserido no CCF.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Sim, pois não basta a inclusão no CCF, a cártula deveria ser protestada.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Não, a devolução não impede o exercício regular de cobrança.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 63,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Administrativo",
+    "questao": "<p>Os Municípios Alfa, Beta e Ômega, por meio de contrato de consórcio, após ratificação do respectivo pro-tocolo de intenções, deram origem à associação pública ABO, a qual tem como finalidade a gestão associ-ada dos serviços públicos de transporte e segurança naquela região.<br/>A associação pública se encontra em funcionamento há três anos, tendo, no entanto, o Município Alfa in-tenção de se retirar do consórcio e pretende retroceder os bens públicos que destinou ao ente por meio de contrato de programa.<br/>A respeito da situação, aponte o item correto:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O consórcio firmado tem personalidade jurídica de direito privado.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A associação criada tem personalidade jurídica de direito público e poderá promo-ver desapropriações, nos termos de declaração de utilidade ou necessidade pública, ou interesse social, realizada pelo Poder Público.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>A associação pública criada integra a administração pública direta dos entes consorciados.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Os bens destinados ao consórcio público pelo Município Alfa serão revertidos ou retrocedidos mesmo que não haja expressa previsão no contrato.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 64,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Administrativo",
+    "questao": "<p>Os servidores públicos da Secretaria de Finanças do município Alfa resolveram fazer greve com o objetivo de obter aumento na sua remuneração.<br/>Passados quinzes dias do início do movimento, o Prefeito publicou decreto aumentando a remuneração dos grevistas, além de prever que o teto remuneratório do município passará a ser, a partir da data de publicação do ato, o subsídio dos Ministros do Supremo Tribunal Federal, incluindo para a aferição do limite as parcelas de natureza indenizatória.<br/>A respeito da situação narrada, aponte o item correto<br/></p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>É válido o aumento da remuneração dos servidores públicos por decreto, uma vez que a matéria não está submetida à reserva legal.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>A definição do subsídio dos Ministros do Supremo Tribunal como teto remuneratório é inconsti-tucional, uma vez que, no âmbito dos municípios, o subsídio dos Prefeitos deve ser considerado como limite remuneratório.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Agiu corretamente o Prefeito ao definir que as parcelas de natureza indenizatória devem ser con-sideradas para a aferição do limite remuneratório.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Por falta de lei específica, a greve dos servidores públicos é ilegal.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 65,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Civil",
+    "questao": "<p>Pedro, renomado atleta de vôlei, constantemente envolvido em polêmicas, veio a falecer devido a um grave acidente de trânsito. Após o seu óbito, o Jornalista Téo Lias veiculou uma reportagem contendo informações inverídicas, resultando em violações aos direitos da personalidade de Pedro. <br/>Diante dessa situação hipotética, assinale a alternativa correta.<br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Os direitos da personalidade são intransmissíveis e irrenunciáveis, logo, somente Pedro teria legitimidade para buscar medidas visando a interrupção da lesão.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Qualquer parte com legitimidade pode pleitear perdas e danos, mas somente Pedro poderia requerer providências para cessar a violação sofrida.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Qualquer pessoa com legitimidade pode demandar a interrupção da lesão, mas apenas Pedro teria o direito de buscar indenização por danos morais.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Tanto o cônjuge sobrevivente quanto qualquer parente em linha reta ou colateral até o quarto grau teriam direito a reclamar perdas e danos, bem como a exigir medidas para cessar a lesão sofrida.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 66,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Civil",
+    "questao": "<p>Proferida sentença que condenou Caio a pagar a Tício determinada soma em dinheiro, o réu interpôs recurso de apelação, cuja intempestividade foi certificada pela serventia. Na sequência, o juiz da causa declarou inadmissível a apelação, decisão da qual foi intimado Caio, por meio de seu advogado. Para se insurgir contra a decisão que obstou ao seguimento de seu apelo, deverá Caio, no prazo recursal, manejar: <br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>reclamação.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>mandado de segurança.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>um segundo recurso de apelação.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>impugnação ao cumprimento de sentença.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 67,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Penal",
+    "questao": "<p>Queiroz soube que sua companheira havia ingressado no mundo dos entorpecentes. Em razão das últimas práticas da amada, percebendo que ela iria se dar mal, Queiroz, para protegê-la, resolveu se acusar perante a autoridade policial, pelo crime de tráfico de drogas. Pelas diretrizes do Código Penal, Queiroz praticou crime contra a administração de justiça, especificamente crime de:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O crime de comunicação falsa de crime ou de contravenção.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O crime de autoacusação falsa.</p>",
+        "correta": true
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O crime de denunciação caluniosa.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O crime de falso testemunho.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 68,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Previdenciário",
+    "questao": "<p>Rebeca Limeira presta serviços como empregada para a sociedade empresária “Alimentos Saudáveis LTDA” e, na data de 20/06/2023, sofreu grave acidente automobilístico quando retornava da casa de seus peia de uma viagem em família. Em decorrência de referido acidente, Rebeca precisará ficar afastada de atividades laborativas por um período de seis meses. Considerando que as contribuições previdenciárias de Rebeca estão regulares, assinale a alternativa que apresenta o benefício previdenciário a ser recebido por Rebeca durante o período de afastamento:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Reabilitação profissional.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Aposentadoria por incapacidade permanente.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Auxílio por incapacidade temporária.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Auxílio-acidente.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 69,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Trabalho",
+    "questao": "<p>Reinaldo Almeida foi contratado pela sociedade empresária “Linus LTDA” para trabalhar em regime de tempo parcial, em 13/09/2021. O empregado cumpria jornada de 30 horas semanais, com a possibilidade de prestação de até 6 horas extras semanais. Ainda, na data de 29/10/2022, Reinaldo recebeu a informação acerca da fruição de suas férias do período aquisitivo 2021/2022 e manifestou o interesse de converter 1/3 das férias em abono pecuniário, mas referido pedido foi negado pela sociedade empresária, sob o argumento de que o regime de trabalho cumprido não admite a conversão das férias em pecúnia. Considerando o caso hipotético acima narrado, assinale a alternativa correta:<br/><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Reinaldo poderia prestar até seis horas extras semanais e não poderia converter 1/3 das férias em abono pecuniário.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Reinaldo não poderia prestar até seis horas extras semanais e não poderia converter 1/3 das férias em abono pecuniário.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Reinaldo não poderia prestar até seis horas extras semanais e poderia converter 1/3 das férias em abono pecuniário.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Reinaldo poderia prestar até seis horas extras semanais e poderia converter 1/3 das férias em abono pecuniário.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 70,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo Penal",
+    "questao": "<p>Ronald, a fim de furtar algum objeto de valor, pulou o muro de uma residência e subtraiu uma motocicleta que estava estacionada na garagem. Um vizinho estava na janela de sua casa e conseguiu ver toda a ação, logo, acionou a polícia, que rapidamente, chegou ao local e encontrou Ronald ainda na garagem, tentando sair do local com a moto. Diante do caso, assinale a alternativa que representa a modalidade de flagrante ocorrida:<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Flagrante esperado.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Flagrante presumido ou ficto.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Flagrante próprio ou perfeito.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Flagrante impróprio.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 71,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo do Trabalho",
+    "questao": "<p>Samanta Araújo propôs reclamação trabalhista em face da empresa “Ômega LTDA” pessoalmente, sem advogado constituído nos autos. Após realização da audiência, com apresentação regular de defesa e ampla produção de provas, o magistrado proferiu sentença de parcial procedência dos pedidos formulados pela autora. Inconformada com a parcela dos pedidos em que foi sucumbente, a reclamante interpõe Recurso Ordinário, perante o Tribunal Regional do Trabalho, ainda sem representação por advogado. Com base na situação apresentada, assinale a alternativa correta:<br/> </p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Samanta não poderia ajuizar reclamação trabalhista sem a representação por advogado, em nenhuma hipótese.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Samanta poderia interpor recurso ordinário para o Tribunal Superior do Trabalho sem a presença de advogado.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Samanta não poderia interpor recurso ordinário para o Tribunal Regional do Trabalho sem a presença de advogado, pois o “jus postulandi” apenas é aplicável nas Varas do Trabalho.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Samanta poderia interpor recurso ordinário para o Tribunal Regional do Trabalho sem a presença de advogado.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 72,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Humanos",
+    "questao": "<p>Sobre o Sistema Interamericano de Proteção dos Direitos Humanos (SIDH) e a Convenção Interamericana de Direitos Humanos, é correto afirmar que:<br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>seus órgãos principais são a Corte Interamericana de Direitos Humanos e a Comissão Interamericana de Direitos Humanos.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>a Convenção Interamericana de Direitos Humanos, pelo seu conteúdo, teve aplicação imediata no Brasil, sem necessidade do processo constitucional de internalização de convenções.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>na interpretação da norma mais favorável, deverá o juiz privilegiar a norma de direito interno em relação à norma prevista na Convenção.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>para que os estrangeiros residentes no Brasil possam invocar as garantias da Convenção Interamericana em seu favor, há necessidade de reciprocidade pelo país de nacionalidade do estrangeiro.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 73,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Penal",
+    "questao": "<p>Tadeu caminhava por seu bairro quando percebeu a iminência de uma briga entre rapazes. Não conseguiu, imediatamente, compreender o porquê, mas conseguiu perceber que havia uma luta física, baseada na violenta, e com número de participantes em que se tornou difícil identificar suas posições. Corajoso, e a fim de pacificá-los, ingressou na contenda, buscando separá-los. A respeito da postura de Tadeu, é correto afirmar:<br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Tadeu não praticou nenhum crime, pois, em que pese não compreender bem a situação, resolveu separar os envolvidos, situação diretamente exposta como ressalva no tipo penal que incrimina a rixa.</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Tadeu incorreu na apologia ao crime, pois, apesar de não intentar o cometimento direto de nenhum delito, sua participação representou perigo abstrato.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Tadeu incorrerá no delito de rixa, pois a situação apresenta todas as características e, mesmo identificando o caos, ele resolveu ser mais um membro.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Tadeu agiu amparado pela excludente de ilicitude da legítima defesa de terceiros, a fim de finalizar a discórdia posta.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 74,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Processo do Trabalho",
+    "questao": "<p>Thiago Neves ajuizou reclamação trabalhista em face do Município de Sorocaba/SP, pleiteando o pagamento de diversas verbas trabalhistas não pagas durante a relação “celetista” mantida com o reclamado durante o período de 10 anos. Na sentença, o juiz do trabalho indeferiu o pedido de condenação do Município ao pagamento de honorários advocatícios de sucumbência, alegando que a administração pública não se sujeita ao pagamento de referida verba. Considerando a situação narrada, assinale a alternativa correta:</p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>O juiz agiu de forma incorreta, pois são devidos honorários advocatícios em ações contra a Fazenda Pública, no percentual de 10% a 20%.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>O juiz agiu de forma correta, pois não são devidos honorários advocatícios nas ações em face da Fazenda Pública.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>O juiz agiu de forma incorreta, pois são devidos honorários advocatícios em ações contra a Fazenda Pública, no percentual de 5% a 15%.</p>",
+        "correta": true
+      },
+      {
+        "letra": "D",
+        "texto": "<p>O juiz agiu de forma correta, pois não são devidos honorários advocatícios no Processo do Trabalho.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 75,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Constitucional",
+    "questao": "<p>Um grupo de 1000 pessoas, através de uma rede social, resolveu marcar uma manifestação contra determinado ato do governo local, na famosa avenida do Estado X às 18hs. Desta forma, este grupo:<br/></p><p><br/></p><p></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Poderá reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;</p>",
+        "correta": true
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Poderá reunir-se pacificamente, sem armas, em locais abertos ao público, dependendo de autorização de autoridade competente, para que não frustrem outra reunião anteriormente convocada para o mesmo local;</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Não poderá reunir-se, mesmo que pacificamente, no horário marcado, para que não prejudiquem o direito de ir e vir dos não manifestantes. Poderão reunir-se pacificamente, sem armas, em locais aberto ao público, independentemente de autorização, em dias não uteis;</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Não poderá reunir-se pacificamente, sem armas, em locais abertos ao público, mesmo com autorização de autoridade competente, de modo que não prejudique o direito de ir e vir dos não manifestantes.</p>",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "questao_id": 76,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Penal",
+    "questao": "<p>Uma loja de sapatos ingressou com ação processual para recuperar o valor de R$ 100.000,00 (cem mil reais), em razão de um funcionário haver transferido, pelo método de transferência imediata entre bancos (conhecido como “PIX”), valor para a conta de outra pessoa, equivocadamente. Esta recebeu o valor por engano, e aproveitou para comprar um imóvel, motivo pelo qual justificou, em sua defesa processual, que não havia como devolvê-lo. Considerado o caso, assinale a assertiva correta<br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p><span style=\"font-size: 13px;float: none;\">Quem recebeu e não devolveu cometeu o delito de estelionato. Apesar de não ter cometido nenhuma ação diretamente, incorreu no crime ao utilizar o valor como se fosse seu, omitindo sua devolução.</span><br/></p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>Quem recebeu e não devolveu cometeu o delito de apropriação indébita. Em que pese ela não ter cometido nenhuma ação diretamente, incorreu no crime ao utilizar o valor como se fosse seu, omitindo sua devolução.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Quem recebeu e não devolveu cometeu o delito de furto mediante fraude. Em que pese ela não ter cometido nenhuma ação diretamente, incorreu no crime ao utilizar o valor como se fosse seu, omitindo sua devolução.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Quem recebeu e não devolveu cometeu o delito de apropriação de coisa havida por erro. Em que pese ela não ter cometido nenhuma ação diretamente, incorreu no crime ao utilizar o valor como se fosse seu, omitindo sua devolução.</p>",
+        "correta": true
+      }
+    ]
+  },
+  {
+    "questao_id": 77,
+    "simulado_id": 3847,
+    "simulado_nome": "Simulado OAB - 1ª Fase - 44º Exame (ID 3847)",
+    "area": "Humanos",
+    "questao": "<p> Os Direitos Humanos são um conjunto de princípios e normas que visam garantir dignidade, liberdade e igualdade a todas as pessoas, independentemente de sua origem, raça, gênero, religião, orientação sexual, condição social, entre outros aspectos. Esses direitos são reconhecidos internacionalmente e protegidos por instrumentos legais para promover a justiça, a paz e o respeito à humanidade. No âmbito dos Direitos Humanos, qual princípio reconhece o direito de um indivíduo ser julgado por um tribunal independente e equânime em processos judiciais?<br/><br/><br/><br/></p>",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "<p>Princípio da não discriminação.</p>",
+        "correta": false
+      },
+      {
+        "letra": "B",
+        "texto": "<p>princípio da proporcionalidade.</p>",
+        "correta": false
+      },
+      {
+        "letra": "C",
+        "texto": "<p>Princípio da legalidade.</p>",
+        "correta": false
+      },
+      {
+        "letra": "D",
+        "texto": "<p>Princípio da imparcialidade judicial.</p>",
+        "correta": true
+      }
+    ]
+  }
+]
