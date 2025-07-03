@@ -1,8 +1,65 @@
 .header {
-  background-color: #1e88e5;
-  color: white;
-  padding: 20px;
-  text-align: center;
+  background: linear-gradient(90deg, #fff 0%, #ff6b6b 60%, #111 100%);
+  color: #fff;
+  padding: 24px 0 18px 0;
+  text-align: left;
+  box-shadow: 0 4px 24px #ff6b6b22;
+  position: relative;
+  overflow: hidden;
+}
+
+.simulado-header-animado::before {
+  content: '';
+  position: absolute;
+  left: -60px; top: -60px;
+  width: 180px; height: 180px;
+  background: radial-gradient(circle, #ff6b6b 0%, #fff 80%, transparent 100%);
+  opacity: 0.25;
+  z-index: 0;
+  animation: headerPulse 4s infinite alternate;
+}
+
+@keyframes headerPulse {
+  0% { transform: scale(1) translateY(0); opacity: 0.18; }
+  100% { transform: scale(1.15) translateY(10px); opacity: 0.32; }
+}
+
+.simulado-titulo-animado {
+  font-size: 2.6rem;
+  font-weight: bold;
+  margin: 0 0 0 32px;
+  letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.simulado-titulo-gradient {
+  background: linear-gradient(90deg, #fff 0%, #ff6b6b 80%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* text-fill-color: transparent; removido para compatibilidade */
+  text-shadow: 0 2px 8px #ff6b6b33, 0 1px 0 #fff;
+  animation: gradientMove 5s linear infinite alternate;
+}
+.simulado-titulo-oab {
+  color: #111;
+  background: linear-gradient(90deg, #ff6b6b 0%, #111 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* text-fill-color: transparent; removido para compatibilidade */
+  margin-left: 10px;
+  font-weight: 900;
+  letter-spacing: 3px;
+  text-shadow: 0 2px 8px #1112, 0 1px 0 #fff;
+  animation: gradientMove 5s linear infinite alternate-reverse;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 100% 50%; }
 }
 
 .nav {

@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import styles from './SimuladoForm.module.css';
 import { useParams, useNavigate } from 'react-router-dom';
 
 function SimuladoForm() {
@@ -43,25 +44,40 @@ function SimuladoForm() {
       });
   };
 
-  if (loading) return <p>Carregando questões...</p>;
-  if (error) return <p>{error}</p>;
+
+  if (loading) return (
+    <div className={styles.simuladoContainer} style={{ textAlign: 'center' }}>
+      <span style={{ fontSize: 22, color: '#ff6b6b', fontWeight: 600 }}>Carregando questões...</span>
+    </div>
+  );
+  if (error) return (
+    <div className={styles.simuladoContainer} style={{ textAlign: 'center' }}>
+      <span style={{ fontSize: 22, color: '#ff6b6b', fontWeight: 600 }}>{error}</span>
+    </div>
+  );
 
   return (
-    <form onSubmit={handleSubmit} style={{ maxWidth: 700, margin: '0 auto', background: '#fff', borderRadius: 8, boxShadow: '0 2px 8px #0001', padding: 32 }}>
-      <h2>{nome.replace('.json', '')}</h2>
+    <form onSubmit={handleSubmit} className={styles.simuladoContainer}>
+      <div className={styles.titulo}>{nome.replace('.json', '')}</div>
       <div style={{ marginBottom: 24 }}>
-        <div style={{ height: 8, background: '#eee', borderRadius: 4, marginBottom: 16 }}>
-          <div style={{ width: `${(Object.keys(respostas).length / questoes.length) * 100}%`, height: 8, background: '#1abc9c', borderRadius: 4, transition: 'width 0.3s' }} />
+        <div className={styles.progressBar}>
+          <div className={styles.progress} style={{ width: `${(Object.keys(respostas).length / questoes.length) * 100}%` }} />
         </div>
-        <span>Respondidas: {Object.keys(respostas).length} / {questoes.length}</span>
+        <span style={{ color: '#2d3a4b', fontWeight: 500 }}>Respondidas: {Object.keys(respostas).length} / {questoes.length}</span>
       </div>
       {questoes.map((q, idx) => (
-        <div key={q.questao_id} style={{ marginBottom: 28, padding: 16, background: '#f7f7f7', borderRadius: 6 }}>
-          <div style={{ fontWeight: 'bold', marginBottom: 8 }}>Questão {idx + 1}</div>
-          <div dangerouslySetInnerHTML={{ __html: q.questao }} style={{ marginBottom: 10 }} />
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+        <div key={q.questao_id} className={styles.questaoBox}>
+          <div className={styles.questaoTitulo}>Questão {idx + 1}</div>
+          <div className={styles.questaoEnunciado} dangerouslySetInnerHTML={{ __html: q.questao }} />
+          <div className={styles.alternativas}>
             {q.alternativas.map(a => (
-              <label key={a.letra} style={{ display: 'flex', alignItems: 'center', gap: 8, background: '#fff', borderRadius: 4, border: '1px solid #ddd', padding: 6, cursor: 'pointer' }}>
+              <label
+                key={a.letra}
+                className={
+                  styles.alternativaLabel +
+                  (respostas[q.questao_id] === a.letra ? ' ' + styles.selected : '')
+                }
+              >
                 <input
                   type="radio"
                   name={`questao_${q.questao_id}`}
@@ -69,14 +85,15 @@ function SimuladoForm() {
                   checked={respostas[q.questao_id] === a.letra}
                   onChange={() => handleChange(q.questao_id, a.letra)}
                   required
+                  style={{ accentColor: '#ff6b6b' }}
                 />
-                <span style={{ fontWeight: 500 }}>{a.letra})</span> {a.texto}
+                <span>{a.letra})</span> {a.texto}
               </label>
             ))}
           </div>
         </div>
       ))}
-      <button type="submit" style={{ background: '#2c3e50', color: '#fff', border: 'none', borderRadius: 4, padding: '12px 28px', fontSize: 18, cursor: 'pointer', marginTop: 16 }}>Enviar Respostas</button>
+      <button type="submit" className={styles.enviarBtn}>Enviar Respostas</button>
     </form>
   );
 }
