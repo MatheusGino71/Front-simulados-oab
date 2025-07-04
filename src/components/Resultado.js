@@ -8,7 +8,18 @@ function Resultado() {
 
 
   // Corrige possíveis undefined/null para evitar erro de leitura de length
-  const erros = Array.isArray(resultado?.erros) ? resultado.erros : [];
+  // Limpa o enunciado das questões erradas, removendo HTML e blocos de código
+  const limparEnunciado = (enunciado) => {
+    if (!enunciado) return '';
+    return enunciado
+      .replace(/<[^>]*>/g, '') // Remove tags HTML
+      .replace(/\s*Código[s]?:?(.|\n)*$/gi, '') // Remove "Código:" e tudo após
+      .trim();
+  };
+
+  const erros = Array.isArray(resultado?.erros)
+    ? resultado.erros.map(e => ({ ...e, enunciado: limparEnunciado(e.enunciado) }))
+    : [];
   const acertos = typeof resultado?.acertos === 'number' ? resultado.acertos : 0;
   const total = typeof resultado?.total === 'number' ? resultado.total : 0;
   const diagnostico = resultado?.diagnostico || '';
@@ -38,7 +49,8 @@ function Resultado() {
       <ul style={{ listStyle: 'none', padding: 0 }}>
         {erros.map((erro, idx) => (
           <li key={idx} style={{ background: '#faeaea', borderRadius: 6, marginBottom: 10, padding: 12, color: '#c0392b' }}>
-            <strong>Questão {erro.questao_id}:</strong> Sua resposta: <span style={{ color: '#c0392b' }}>{erro.respostaAluno}</span> | Correta: <span style={{ color: '#27ae60' }}>{erro.respostaCerta}</span>
+            <div style={{ fontWeight: 600, marginBottom: 4 }}>Questão {erro.questao_id}: {erro.enunciado}</div>
+            Sua resposta: <span style={{ color: '#c0392b' }}>{erro.respostaAluno}</span> | Correta: <span style={{ color: '#27ae60' }}>{erro.respostaCerta}</span>
           </li>
         ))}
       </ul>
