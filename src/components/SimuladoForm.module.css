@@ -1,6 +1,7 @@
 
 
 
+
 body {
   min-height: 100vh;
   background: linear-gradient(120deg, #B0C4DE 0%, #FF6347 100%);
@@ -73,31 +74,44 @@ body {
 }
 
 .progressBar {
-  height: 16px;
-  background: #e0e7ff;
-  border-radius: 8px;
+  height: 18px;
+  background: #e5e9f2;
+  border-radius: 10px;
   margin-bottom: 22px;
   overflow: hidden;
-  box-shadow: 0 2px 8px #ffd93d33;
+  box-shadow: 0 2px 8px #B0C4DE55;
+  border: 1.5px solid #B0C4DE;
+  position: relative;
 }
 .progress {
   height: 100%;
-  background: linear-gradient(90deg, #ff6b6b 0%, #ffd93d 50%, #1abc9c 100%);
-  border-radius: 8px;
-  transition: width 0.4s;
-  box-shadow: 0 2px 8px #ff6b6b33;
+  background: linear-gradient(90deg, #FF6347 0%, #B0C4DE 100%);
+  border-radius: 10px;
+  transition: width 0.5s cubic-bezier(.4,2,.6,1);
+  box-shadow: 0 2px 8px #FF634733;
+  position: absolute;
+  left: 0; top: 0;
 }
 
 .questaoBox {
   margin-bottom: 36px;
   padding: 28px 22px 20px 22px;
-  background: linear-gradient(120deg, #B0C4DE 80%, #FF634733 100%);
-  border-radius: 14px;
-  box-shadow: 0 4px 16px #B0C4DE44;
+  background: linear-gradient(120deg, #fff 80%, #B0C4DE22 100%);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px #B0C4DE33, 0 1.5px 0 #FF6347;
   border: 2.5px solid #FF6347;
-  animation: fadeIn 0.5s;
+  animation: fadeInCard 0.5s;
   position: relative;
   z-index: 1;
+  transition: box-shadow 0.2s, border 0.2s;
+}
+.questaoBox:hover {
+  box-shadow: 0 8px 32px #FF634755, 0 2px 0 #B0C4DE;
+  border: 2.5px solid #B0C4DE;
+}
+@keyframes fadeInCard {
+  from { opacity: 0; transform: translateY(30px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
 }
 .questaoBox::after {
   content: '';
@@ -133,22 +147,35 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
-  background: #f0f4ff;
+  background: #f8fafc;
   border-radius: 8px;
-  border: 2.5px solid #e0e7ff;
+  border: 2.5px solid #B0C4DE;
   padding: 13px 16px;
   cursor: pointer;
   font-size: 1.09rem;
   font-weight: 500;
-  transition: background 0.2s, border 0.2s, box-shadow 0.2s, color 0.2s;
-  box-shadow: 0 2px 8px #e0e7ff33;
+  transition: background 0.18s, border 0.18s, box-shadow 0.18s, color 0.18s, transform 0.12s;
+  box-shadow: 0 2px 8px #B0C4DE33;
   position: relative;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.alternativaLabel:hover {
+  background: #eaf6ff;
+  border: 2.5px solid #FF6347;
+  transform: scale(1.02);
+  box-shadow: 0 4px 16px #FF634733;
 }
 .alternativaLabel.selected {
   background: linear-gradient(90deg, #FF6347 80%, #B0C4DE22 100%);
   border: 2.5px solid #FF6347;
   color: #222;
   box-shadow: 0 4px 16px #B0C4DE55;
+  animation: pulseSelected 0.3s;
+}
+@keyframes pulseSelected {
+  0% { box-shadow: 0 0 0 0 #FF634799; }
+  100% { box-shadow: 0 4px 16px #B0C4DE55; }
 }
 .alternativaLabel.selected::before {
   content: '✔';
@@ -156,7 +183,13 @@ body {
   font-size: 1.2rem;
   margin-right: 8px;
   font-weight: bold;
+  animation: checkAppear 0.3s;
 }
+@keyframes checkAppear {
+  from { opacity: 0; transform: scale(0.7); }
+  to { opacity: 1; transform: scale(1); }
+}
+
 
 
 .enviarBtn {

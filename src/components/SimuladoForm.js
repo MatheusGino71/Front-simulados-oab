@@ -1,8 +1,10 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import styles from './SimuladoForm.module.css';
 import { useParams, useNavigate } from 'react-router-dom';
 
 function SimuladoForm() {
+  // Para feedback sonoro
+  const audioRef = useRef(null);
   const { nome } = useParams();
   const [questoes, setQuestoes] = useState([]);
   const [respostas, setRespostas] = useState({});
@@ -32,6 +34,15 @@ function SimuladoForm() {
 
   const handleChange = (questao_id, letra) => {
     setRespostas({ ...respostas, [questao_id]: letra });
+    // Toca o áudio apenas se o elemento está no DOM e pode ser reproduzido
+    if (audioRef.current && audioRef.current.readyState >= 2) {
+      try {
+        audioRef.current.currentTime = 0;
+        audioRef.current.play();
+      } catch (e) {
+        // Falha silenciosa se o navegador bloquear
+      }
+    }
   };
 
   const handleSubmit = (e) => {
@@ -80,7 +91,7 @@ function SimuladoForm() {
       </div>
       {questoesPagina.map((q, idx) => (
         <div key={q.questao_id} className={styles.questaoBox}>
-          <div className={styles.questaoTitulo}>Questão {inicio + idx + 1}</div>
+          <div className={styles.questaoTitulo} style={{animation: 'pulseTitle 0.5s'}}>Questão {inicio + idx + 1}</div>
           <span className={styles.questaoEnunciado} style={{display: 'block', marginBottom: 14, fontWeight: 500}}>{q.questao}</span>
           <div className={styles.alternativas}>
             {q.alternativas.map(a => (
@@ -90,6 +101,11 @@ function SimuladoForm() {
                   styles.alternativaLabel +
                   (respostas[q.questao_id] === a.letra ? ' ' + styles.selected : '')
                 }
+                tabIndex={0}
+                title={`Selecionar alternativa ${a.letra}`}
+                style={{transition: 'transform 0.18s'}}
+                onMouseEnter={e => e.currentTarget.style.transform = 'scale(1.04)'}
+                onMouseLeave={e => e.currentTarget.style.transform = ''}
               >
                 <input
                   type="radio"
@@ -101,11 +117,19 @@ function SimuladoForm() {
                   style={{ accentColor: '#ff6b6b' }}
                 />
                 <span style={{fontWeight:600}}>{a.letra})</span> <span>{a.texto}</span>
+                <span style={{marginLeft: 8, fontSize: 13, color: '#888'}}>
+                  {respostas[q.questao_id] === a.letra ? '✔ Selecionada!' : 'Clique para selecionar'}
+                </span>
               </label>
             ))}
           </div>
         </div>
       ))}
+      <audio ref={audioRef} preload="auto" style={{display:'none'}}>
+        <source src="https://cdn.pixabay.com/audio/2022/07/26/audio_124bfae5c7.mp3" type="audio/mpeg" />
+        <source src="https://cdn.pixabay.com/audio/2022/07/26/audio_124bfae5c7.ogg" type="audio/ogg" />
+        Seu navegador não suporta áudio.
+      </audio>
       <div className={styles.paginacao}>
         <button type="button" className={styles.enviarBtn} onClick={() => setPagina(p => Math.max(1, p - 1))} disabled={pagina === 1}>
           ⬅ Anterior
