@@ -82,6 +82,7 @@ function SimuladoForm() {
 
   return (
     <form onSubmit={handleSubmit} className={styles.simuladoContainer}>
+      <img src="/logo-meucurso.png" alt="MeuCurso OAB" style={{ maxWidth: 180, margin: '0 auto 18px', display: 'block' }} />
       <div className={styles.titulo}>SIMULADO OAB</div>
       <div style={{ marginBottom: 24 }}>
         <div className={styles.progressBar}>
