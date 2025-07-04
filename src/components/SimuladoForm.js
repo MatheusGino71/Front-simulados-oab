@@ -3,7 +3,8 @@ import styles from './SimuladoForm.module.css';
 import { useParams, useNavigate } from 'react-router-dom';
 
 function SimuladoForm() {
-  // Para feedback sonoro
+
+  // Para feedback sonoro e estados
   const audioRef = useRef(null);
   const { nome } = useParams();
   const [questoes, setQuestoes] = useState([]);
@@ -13,6 +14,11 @@ function SimuladoForm() {
   const [pagina, setPagina] = useState(1);
   const porPagina = 10;
   const navigate = useNavigate();
+
+  // Ao mudar de página, volta ao topo instantaneamente
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'auto' });
+  }, [pagina]);
 
   useEffect(() => {
     fetch(`http://localhost:3000/simulados/${nome}`)
@@ -31,6 +37,7 @@ function SimuladoForm() {
         setLoading(false);
       });
   }, [nome]);
+
 
   const handleChange = (questao_id, letra) => {
     setRespostas({ ...respostas, [questao_id]: letra });
@@ -63,22 +70,28 @@ function SimuladoForm() {
   };
 
 
-  if (loading) return (
-    <div className={styles.simuladoContainer} style={{ textAlign: 'center' }}>
-      <span style={{ fontSize: 22, color: '#ff6b6b', fontWeight: 600 }}>Carregando questões...</span>
-    </div>
-  );
-  if (error) return (
-    <div className={styles.simuladoContainer} style={{ textAlign: 'center' }}>
-      <span style={{ fontSize: 22, color: '#ff6b6b', fontWeight: 600 }}>{error}</span>
-    </div>
-  );
+  if (loading) {
+    return (
+      <div className={styles.simuladoContainer} style={{ textAlign: 'center' }}>
+        <span style={{ fontSize: 22, color: '#ff6b6b', fontWeight: 600 }}>Carregando questões...</span>
+      </div>
+    );
+  }
+  if (error) {
+    return (
+      <div className={styles.simuladoContainer} style={{ textAlign: 'center' }}>
+        <span style={{ fontSize: 22, color: '#ff6b6b', fontWeight: 600 }}>{error}</span>
+      </div>
+    );
+  }
 
   // Paginação
   const totalPaginas = Math.ceil(questoes.length / porPagina);
   const inicio = (pagina - 1) * porPagina;
   const fim = pagina === totalPaginas ? questoes.length : inicio + porPagina;
   const questoesPagina = questoes.slice(inicio, fim);
+
+  // Ao mudar de página, volta ao topo instantaneamente
 
   return (
     <form onSubmit={handleSubmit} className={styles.simuladoContainer}>
