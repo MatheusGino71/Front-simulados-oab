@@ -24,10 +24,13 @@ function SimuladoForm() {
     fetch(`http://localhost:3000/simulados/${nome}`)
       .then(res => res.json())
       .then(data => {
-        // Remove todas as tags <p> e </p> das questões ao carregar
+        // Remove todas as tags HTML e códigos do enunciado, mantendo apenas o texto da pergunta
         const questoesLimpa = (data.questoes || []).map(q => ({
           ...q,
-          questao: q.questao.replace(/<\/?p>/g, '')
+          questao: q.questao
+            .replace(/<[^>]*>/g, '') // Remove tags HTML
+            .replace(/\s*Código[s]?:?(.|\n)*$/gi, '') // Remove "Código:" e tudo após, inclusive quebras de linha
+            .trim()
         }));
         setQuestoes(questoesLimpa);
         setLoading(false);
