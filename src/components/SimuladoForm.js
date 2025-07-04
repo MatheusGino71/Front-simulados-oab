@@ -28,9 +28,16 @@ function SimuladoForm() {
         const questoesLimpa = (data.questoes || []).map(q => ({
           ...q,
           questao: q.questao
-            .replace(/<[^>]*>/g, '') // Remove tags HTML
-            .replace(/\s*Código[s]?:?(.|\n)*$/gi, '') // Remove "Código:" e tudo após, inclusive quebras de linha
-            .trim()
+            .replace(/<[^>]*>/g, '')
+            .replace(/\s*Código[s]?:?(.|\n)*$/gi, '')
+            .trim(),
+          alternativas: (q.alternativas || []).map(a => ({
+            ...a,
+            texto: a.texto
+              .replace(/<[^>]*>/g, '')
+              .replace(/\s*Código[s]?:?(.|\n)*$/gi, '')
+              .trim()
+          }))
         }));
         setQuestoes(questoesLimpa);
         setLoading(false);
